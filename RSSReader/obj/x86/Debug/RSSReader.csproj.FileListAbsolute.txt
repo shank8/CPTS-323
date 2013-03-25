@@ -1,0 +1,16 @@
+c:\users\matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\bin\Debug\RSSReader.exe
+c:\users\matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\bin\Debug\RSSReader.pdb
+c:\users\matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.RSSReader.resources
+c:\users\matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.exe
+c:\users\matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.pdb
+C:\Users\Matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.csprojResolveAssemblyReference.cache
+C:\Users\Matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.ListView.resources
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.addChannel.resources
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.MapView.resources
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\Debug\Google.Api.Maps.Service.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\Debug\nunit.framework.dll
+C:\Users\Matt\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\Matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.addFeed.resources
