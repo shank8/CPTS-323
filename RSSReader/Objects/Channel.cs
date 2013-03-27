@@ -7,36 +7,28 @@ namespace RSSReader.Objects
 {
     public class Channel
     {
-        public Channel()
+        public Channel(string title, string description)
         {
-            Title = "Channel";
-            Description = "Description";
-            Feeds = new List<Feed>();
-        }
-        public Channel(String title, String desc)
-        {
-            this.Title = title;
-            this.Description = desc;
-            Feeds = new List<Feed>();
-        }
+            mTitle = title;
+            mDescription = description;
 
-        public void Save()
-        {
-            // This will open up a storage system and save the data
-        }
-        public void _Add(Feed newfeed)
-        {
-            this.Feeds.Add(newfeed);
+            if (mDescription == "")
+                mDescription = "No Description";
+
+            if (mTitle == "")
+                mTitle = "No Title";
+
+            mFeeds = new List<Feed>();
+
         }
 
+        public void _Add ( Feed newFeed )
+        {
+            mFeeds.Add(newFeed);
+        }
 
-  
-        public String Title { get; set; }
-        public String Description { get; set; }
-
-     //   public void addFeed(Feed newFeed);
-      //  public void removeFeed(Feed remFeed);
-
-        private List<Feed> Feeds;
+        public string mTitle;
+        public string mDescription;
+        public List<Feed> mFeeds;
     }
 }

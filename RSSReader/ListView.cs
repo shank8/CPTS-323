@@ -57,5 +57,15 @@ namespace RSSReader
 
         public List<Channel> Channels;
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+
+            Channels[0].mFeeds[0].refresh( 5);
+           
+       
+            webBrowser.Navigate(Channels[0].mFeeds[0].mArticles[0].mLink);
+        }
+
     }
 }

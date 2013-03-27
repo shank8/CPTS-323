@@ -35,32 +35,35 @@
             this.remBtn = new System.Windows.Forms.Button();
             this.titleFilter = new System.Windows.Forms.RadioButton();
             this.dateFilter = new System.Windows.Forms.RadioButton();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // channelTree
             // 
-            this.channelTree.Location = new System.Drawing.Point(12, 92);
+            this.channelTree.Location = new System.Drawing.Point(16, 113);
+            this.channelTree.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.channelTree.Name = "channelTree";
-            this.channelTree.Size = new System.Drawing.Size(250, 416);
+            this.channelTree.Size = new System.Drawing.Size(332, 511);
             this.channelTree.TabIndex = 0;
-           
             this.channelTree.NodeMouseDoubleClick += new System.Windows.Forms.TreeNodeMouseClickEventHandler(this.channelTree_NodeMouseDoubleClick);
             // 
             // webBrowser
             // 
-            this.webBrowser.Location = new System.Drawing.Point(268, 155);
-            this.webBrowser.MinimumSize = new System.Drawing.Size(20, 20);
+            this.webBrowser.Location = new System.Drawing.Point(357, 191);
+            this.webBrowser.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.webBrowser.MinimumSize = new System.Drawing.Size(27, 25);
             this.webBrowser.Name = "webBrowser";
-            this.webBrowser.Size = new System.Drawing.Size(680, 353);
+            this.webBrowser.Size = new System.Drawing.Size(907, 434);
             this.webBrowser.TabIndex = 1;
             // 
             // addBtn
             // 
             this.addBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
             this.addBtn.ForeColor = System.Drawing.Color.Black;
-            this.addBtn.Location = new System.Drawing.Point(12, 12);
+            this.addBtn.Location = new System.Drawing.Point(16, 15);
+            this.addBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.addBtn.Name = "addBtn";
-            this.addBtn.Size = new System.Drawing.Size(75, 47);
+            this.addBtn.Size = new System.Drawing.Size(100, 58);
             this.addBtn.TabIndex = 2;
             this.addBtn.Text = "Add Channel";
             this.addBtn.UseVisualStyleBackColor = true;
@@ -70,9 +73,10 @@
             // 
             this.setBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
             this.setBtn.ForeColor = System.Drawing.Color.Black;
-            this.setBtn.Location = new System.Drawing.Point(183, 12);
+            this.setBtn.Location = new System.Drawing.Point(244, 15);
+            this.setBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.setBtn.Name = "setBtn";
-            this.setBtn.Size = new System.Drawing.Size(79, 47);
+            this.setBtn.Size = new System.Drawing.Size(105, 58);
             this.setBtn.TabIndex = 4;
             this.setBtn.Text = "Settings";
             this.setBtn.UseVisualStyleBackColor = true;
@@ -81,9 +85,10 @@
             // 
             this.remBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
             this.remBtn.ForeColor = System.Drawing.Color.Black;
-            this.remBtn.Location = new System.Drawing.Point(93, 12);
+            this.remBtn.Location = new System.Drawing.Point(124, 15);
+            this.remBtn.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.remBtn.Name = "remBtn";
-            this.remBtn.Size = new System.Drawing.Size(84, 47);
+            this.remBtn.Size = new System.Drawing.Size(112, 58);
             this.remBtn.TabIndex = 3;
             this.remBtn.Text = "Remove Channel";
             this.remBtn.UseVisualStyleBackColor = true;
@@ -92,9 +97,10 @@
             // titleFilter
             // 
             this.titleFilter.AutoSize = true;
-            this.titleFilter.Location = new System.Drawing.Point(12, 69);
+            this.titleFilter.Location = new System.Drawing.Point(16, 85);
+            this.titleFilter.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.titleFilter.Name = "titleFilter";
-            this.titleFilter.Size = new System.Drawing.Size(81, 17);
+            this.titleFilter.Size = new System.Drawing.Size(105, 21);
             this.titleFilter.TabIndex = 5;
             this.titleFilter.TabStop = true;
             this.titleFilter.Text = "Sort by Title";
@@ -103,20 +109,32 @@
             // dateFilter
             // 
             this.dateFilter.AutoSize = true;
-            this.dateFilter.Location = new System.Drawing.Point(99, 69);
+            this.dateFilter.Location = new System.Drawing.Point(132, 85);
+            this.dateFilter.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dateFilter.Name = "dateFilter";
-            this.dateFilter.Size = new System.Drawing.Size(84, 17);
+            this.dateFilter.Size = new System.Drawing.Size(108, 21);
             this.dateFilter.TabIndex = 6;
             this.dateFilter.TabStop = true;
             this.dateFilter.Text = "Sort by Date";
             this.dateFilter.UseVisualStyleBackColor = true;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(371, 90);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "TEST ME";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // ListView
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkRed;
-            this.ClientSize = new System.Drawing.Size(960, 522);
+            this.ClientSize = new System.Drawing.Size(1280, 642);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.dateFilter);
             this.Controls.Add(this.titleFilter);
             this.Controls.Add(this.setBtn);
@@ -126,6 +144,7 @@
             this.Controls.Add(this.channelTree);
             this.ForeColor = System.Drawing.Color.White;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "ListView";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "k";
@@ -145,6 +164,7 @@
         private System.Windows.Forms.RadioButton titleFilter;
         private System.Windows.Forms.RadioButton dateFilter;
         private System.Windows.Forms.ToolStripMenuItem add = new System.Windows.Forms.ToolStripMenuItem("Add Feed");
+        private System.Windows.Forms.Button button1;
         
 
     }

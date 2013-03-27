@@ -23,22 +23,24 @@ namespace RSSReader
         private void saveBtn_Click(object sender, EventArgs e)
         {
             feed = new Feed(this.feedTitle.Text, this.feedDesc.Text, this.feedUrl.Text);
+            //feed = new Feed();
+            feed.mTitle = this.feedTitle.Text;
 
 
             // Save feed to xml
-            feed.Save();
+            //feed.Save();
 
             // Add the feed to the correct channel
             foreach (Channel c in channels)
             {
-                if (c.Title == selected.Text)
+                if (c.mTitle == selected.Text)
                 {
                     c._Add(feed);
                 }
             }
 
             // Add feed to current channel
-            selected.Nodes.Add(feed.Title);
+            selected.Nodes.Add(feed.mTitle);
 
             this.Close();
 

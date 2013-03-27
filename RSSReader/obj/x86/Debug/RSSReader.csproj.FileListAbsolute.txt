@@ -14,3 +14,16 @@ C:\Users\Matt\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\Debu
 C:\Users\Matt\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\Debug\nunit.framework.dll
 C:\Users\Matt\Documents\Visual Studio 2010\Projects\RSSReader\RSSReader\bin\Debug\Google.Api.Maps.Service.pdb
 C:\Users\Matt\documents\visual studio 2010\Projects\RSSReader\RSSReader\obj\x86\Debug\RSSReader.addFeed.resources
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.exe
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.pdb
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\bin\Debug\RSSReader.exe
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\bin\Debug\RSSReader.pdb
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\bin\Debug\Google.Api.Maps.Service.pdb
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.csprojResolveAssemblyReference.cache
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.addChannel.resources
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.addFeed.resources
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.MapView.resources
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.RSSReader.resources
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.Properties.Resources.resources
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.ListView.resources
+C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.csproj.GenerateResource.Cache

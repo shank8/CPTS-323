@@ -29,13 +29,13 @@ namespace RSSReader
             channel = new Channel(this.channelTitle.Text, this.channelDesc.Text);
 
             // Save the info to an XML doc
-            channel.Save();
+           // channel.Save();
 
 
             channels.Add(channel);
 
             // Now add it to the tree view
-            treeView.Nodes.Add(channel.Title);
+            treeView.Nodes.Add(channel.mTitle);
 
             this.Close();
         }

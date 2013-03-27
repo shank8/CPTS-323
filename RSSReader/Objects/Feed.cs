@@ -2,40 +2,52 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Net;
+using System.Xml;
+using System.IO;
+using System.ServiceModel.Syndication;
+using System.Data;
 
 namespace RSSReader.Objects
 {
     public class Feed
     {
-        public Feed()
+       public Feed( String title, String description, String url)
         {
-            Title = "Title";
-            Description = "Description";
-            Link = "Link";
+            mURL = url;
+            mTitle = title;
+            mDescription = description;
         }
 
-        public Feed(String title, String desc, String link)
+
+        public void refresh(int numArticles)
         {
-            this.Title = title;
-            this.Description = desc;
-            this.Link = link;
+            mArticles = new List<Article>();
+
+            var reader = XmlReader.Create(mURL);
+
+            var feed = SyndicationFeed.Load(reader);
+
+            //Loop through all items in the SyndicationFeed
+            foreach (var i in feed.Items)
+            {
+                Article new_article = new Article();
+                new_article.mTitle = i.Title.Text;
+                new_article.mTitle = i.Summary.Text;
+                new_article.mPubDate = i.PublishDate;
+                new_article.mDescription = i.Summary.Text;
+                new_article.mLink = i.Id;
+                mArticles.Add(new_article);
+
+                if (mArticles.Count() >= (numArticles))
+                    return;
+            }
         }
 
-        public void Save(){
-            // Save xml here
-        }
 
-      //  public void addArticle(Article newArt);
-        //public void remArticle(Article remArt);
-
-
-        public String Title { get; set; }
-  
-        public String Description { get; set; }
-
-        public String Link { get; set; }
-
-
-        private List<Article> artList;
+        public string mTitle;
+        public string mURL;
+        public string mDescription;
+        public List<Article> mArticles;
     }
 }
