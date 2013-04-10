@@ -89,7 +89,9 @@
     <Compile Include="Objects\Article.cs" />
     <Compile Include="Objects\Channel.cs" />
     <Compile Include="Objects\City.cs" />
+    <Compile Include="Objects\State.cs" />
     <Compile Include="Objects\Feed.cs" />
+    <Compile Include="Objects\XML_Handler.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="addChannel.resx">

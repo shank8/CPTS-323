@@ -8,8 +8,12 @@ using System.Text;
 using System.Windows.Forms;
 using RSSReader.Objects;
 
+
 namespace RSSReader
 {
+
+
+
     public partial class addFeed : Form
     {
         public addFeed(TreeNode cur, TreeView tree, List<Channel> channels)
@@ -41,6 +45,10 @@ namespace RSSReader
 
             // Add feed to current channel
             selected.Nodes.Add(feed.mTitle);
+
+            // !!!!! use user-defined number of articles to display/refresh at a time. 10 is arbitrary number !!!!! 
+            feed.refresh(10); 
+           
 
             this.Close();
 

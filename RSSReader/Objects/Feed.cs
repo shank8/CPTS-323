@@ -33,11 +33,13 @@ namespace RSSReader.Objects
             {
                 Article new_article = new Article();
                 new_article.mTitle = i.Title.Text;
-                new_article.mTitle = i.Summary.Text;
+                new_article.mDescription = i.Summary.Text;
                 new_article.mPubDate = i.PublishDate;
                 new_article.mDescription = i.Summary.Text;
                 new_article.mLink = i.Id;
+                new_article.Clean();
                 mArticles.Add(new_article);
+
 
                 if (mArticles.Count() >= (numArticles))
                     return;
