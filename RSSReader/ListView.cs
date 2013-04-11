@@ -102,7 +102,7 @@ namespace RSSReader
         private void byNameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             channelTree.Nodes.Clear();
-            Channels.OrderBy( Channels[0].mTitle );
+          //  Channels.OrderBy( Channels[0].mTitle );
            // Channels[0].mFeeds
 
 

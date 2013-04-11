@@ -9,3 +9,19 @@ C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.Li
 C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader1.2.csproj.GenerateResource.Cache
 C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.exe
 C:\Users\Zack Pat\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.pdb
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.exe
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.pdb
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\bin\Debug\RSSReader.exe
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\bin\Debug\RSSReader.pdb
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader1.2.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.addChannel.resources
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.addFeed.resources
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.MapView.resources
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.RSSReader.resources
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.Properties.Resources.resources
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader.ListView.resources
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\obj\x86\Debug\RSSReader1.2.csproj.GenerateResource.Cache
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\bin\Debug\GMap.NET.Core.dll
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\bin\Debug\GMap.NET.Core.xml
+C:\Users\Matt\Documents\GitHub\CPTS-323\RSSReader\bin\Debug\GMap.NET.WindowsForms.xml

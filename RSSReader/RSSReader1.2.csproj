@@ -34,8 +34,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Google.Api.Maps.Service">
-      <HintPath>..\..\..\..\..\Downloads\gmaps-api-net-0.9.2a-src\gmaps-api-net-0.9.2a\src\Google.Api.Maps.Service\obj\Debug\Google.Api.Maps.Service.dll</HintPath>
+    <Reference Include="BSE.Windows.Forms">
+      <HintPath>..\..\..\..\Downloads\GMap.NET.WindowsForms\BSE.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.Core">
+      <HintPath>..\..\..\..\Downloads\GMap.NET.WindowsForms\GMap.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="GMap.NET.WindowsForms">
+      <HintPath>..\..\..\..\Downloads\GMap.NET.WindowsForms\GMap.NET.WindowsForms.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\..\..\..\..\Downloads\gmaps-api-net-0.9.2a-src\gmaps-api-net-0.9.2a\dependencies\Json35r6\Bin\DotNet\Newtonsoft.Json.dll</HintPath>
@@ -89,6 +95,7 @@
     <Compile Include="Objects\Article.cs" />
     <Compile Include="Objects\Channel.cs" />
     <Compile Include="Objects\City.cs" />
+    <Compile Include="Objects\MapView\FeedMarker.cs" />
     <Compile Include="Objects\State.cs" />
     <Compile Include="Objects\Feed.cs" />
     <Compile Include="Objects\XML_Handler.cs" />

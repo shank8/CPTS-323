@@ -29,12 +29,12 @@
         private void InitializeComponent()
         {
             this.treeView = new System.Windows.Forms.TreeView();
-            this.webBrowser = new System.Windows.Forms.WebBrowser();
             this.addBtn = new System.Windows.Forms.Button();
             this.setBtn = new System.Windows.Forms.Button();
             this.remBtn = new System.Windows.Forms.Button();
             this.titleFilter = new System.Windows.Forms.RadioButton();
             this.dateFilter = new System.Windows.Forms.RadioButton();
+            this.gmap = new GMap.NET.WindowsForms.GMapControl();
             this.SuspendLayout();
             // 
             // treeView
@@ -43,15 +43,6 @@
             this.treeView.Name = "treeView";
             this.treeView.Size = new System.Drawing.Size(250, 416);
             this.treeView.TabIndex = 0;
-            // 
-            // webBrowser
-            // 
-            this.webBrowser.Location = new System.Drawing.Point(268, 12);
-            this.webBrowser.MinimumSize = new System.Drawing.Size(20, 20);
-            this.webBrowser.Name = "webBrowser";
-            this.webBrowser.Size = new System.Drawing.Size(680, 496);
-            this.webBrowser.TabIndex = 1;
-            this.webBrowser.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webBrowser_DocumentCompleted);
             // 
             // addBtn
             // 
@@ -110,18 +101,40 @@
             this.dateFilter.Text = "Sort by Date";
             this.dateFilter.UseVisualStyleBackColor = true;
             // 
+            // gmap
+            // 
+            this.gmap.Bearing = 0F;
+            this.gmap.CanDragMap = true;
+            this.gmap.GrayScaleMode = false;
+            this.gmap.LevelsKeepInMemmory = 5;
+            this.gmap.Location = new System.Drawing.Point(277, 12);
+            this.gmap.MarkersEnabled = true;
+            this.gmap.MaxZoom = 18;
+            this.gmap.MinZoom = 2;
+            this.gmap.MouseWheelZoomType = GMap.NET.MouseWheelZoomType.MousePositionAndCenter;
+            this.gmap.Name = "gmap";
+            this.gmap.NegativeMode = false;
+            this.gmap.PolygonsEnabled = true;
+            this.gmap.RetryLoadTile = 0;
+            this.gmap.RoutesEnabled = true;
+            this.gmap.ShowTileGridLines = false;
+            this.gmap.Size = new System.Drawing.Size(671, 498);
+            this.gmap.TabIndex = 7;
+            this.gmap.Zoom = 5D;
+            this.gmap.OnMarkerClick += new GMap.NET.WindowsForms.MarkerClick(this.gmap_OnMarkerClick);
+            // 
             // MapView
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkRed;
             this.ClientSize = new System.Drawing.Size(960, 522);
+            this.Controls.Add(this.gmap);
             this.Controls.Add(this.dateFilter);
             this.Controls.Add(this.titleFilter);
             this.Controls.Add(this.setBtn);
             this.Controls.Add(this.remBtn);
             this.Controls.Add(this.addBtn);
-            this.Controls.Add(this.webBrowser);
             this.Controls.Add(this.treeView);
             this.ForeColor = System.Drawing.Color.White;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -137,11 +150,11 @@
         #endregion
 
         private System.Windows.Forms.TreeView treeView;
-        private System.Windows.Forms.WebBrowser webBrowser;
         private System.Windows.Forms.Button addBtn;
         private System.Windows.Forms.Button setBtn;
         private System.Windows.Forms.Button remBtn;
         private System.Windows.Forms.RadioButton titleFilter;
         private System.Windows.Forms.RadioButton dateFilter;
+        private GMap.NET.WindowsForms.GMapControl gmap;
     }
 }
