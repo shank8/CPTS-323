@@ -35,6 +35,9 @@
             this.titleFilter = new System.Windows.Forms.RadioButton();
             this.dateFilter = new System.Windows.Forms.RadioButton();
             this.gmap = new GMap.NET.WindowsForms.GMapControl();
+            this.mapList = new System.Windows.Forms.ListView();
+            this.Title = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.Description = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.SuspendLayout();
             // 
             // treeView
@@ -118,10 +121,31 @@
             this.gmap.RetryLoadTile = 0;
             this.gmap.RoutesEnabled = true;
             this.gmap.ShowTileGridLines = false;
-            this.gmap.Size = new System.Drawing.Size(671, 498);
+            this.gmap.Size = new System.Drawing.Size(671, 443);
             this.gmap.TabIndex = 7;
             this.gmap.Zoom = 5D;
             this.gmap.OnMarkerClick += new GMap.NET.WindowsForms.MarkerClick(this.gmap_OnMarkerClick);
+            // 
+            // mapList
+            // 
+            this.mapList.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.Title,
+            this.Description});
+            this.mapList.Location = new System.Drawing.Point(277, 461);
+            this.mapList.MultiSelect = false;
+            this.mapList.Name = "mapList";
+            this.mapList.Size = new System.Drawing.Size(671, 47);
+            this.mapList.TabIndex = 8;
+            this.mapList.UseCompatibleStateImageBehavior = false;
+            this.mapList.View = System.Windows.Forms.View.Details;
+            // 
+            // Title
+            // 
+            this.Title.Text = "Title";
+            // 
+            // Description
+            // 
+            this.Description.Text = "Description";
             // 
             // MapView
             // 
@@ -129,6 +153,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkRed;
             this.ClientSize = new System.Drawing.Size(960, 522);
+            this.Controls.Add(this.mapList);
             this.Controls.Add(this.gmap);
             this.Controls.Add(this.dateFilter);
             this.Controls.Add(this.titleFilter);
@@ -156,5 +181,8 @@
         private System.Windows.Forms.RadioButton titleFilter;
         private System.Windows.Forms.RadioButton dateFilter;
         private GMap.NET.WindowsForms.GMapControl gmap;
+        private System.Windows.Forms.ListView mapList;
+        private System.Windows.Forms.ColumnHeader Title;
+        private System.Windows.Forms.ColumnHeader Description;
     }
 }

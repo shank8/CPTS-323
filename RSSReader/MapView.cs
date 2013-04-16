@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 using GMap.NET;
 using GMap.NET.WindowsForms;
@@ -41,7 +42,8 @@ namespace RSSReader
 
         private void addPIN(PointLatLng point)
         {
-            new FeedMarker(point, new Feed("Title", "Description", "http://rss.cnn.com/rss/cnn_topstories.rss"), gmap);
+            FeedMarker fm = new FeedMarker(point, new Feed("Cherry Blossom Testing Facility", "There is a lot of cool stuff here to do", "http://rss.cnn.com/rss/cnn_topstories.rss"), gmap);
+            this.fmList.Add(fm);
         }
 
         private void remBtn_Click(object sender, EventArgs e)
@@ -62,11 +64,26 @@ namespace RSSReader
 
         private void gmap_OnMarkerClick(GMapMarker item, MouseEventArgs e)
         {
-            item.ToolTipText = "Hi";
-            
-            
+            Process.Start(item.ToolTipText); // Open up the article
+
+            // Search the list of FeedMarkers for this article
+
+            FeedMarker found = fmList.Find(
+                delegate(FeedMarker fm)
+                {
+                    return fm.feed.mURL == item.ToolTipText;
+                });
+
+            if (found != null) // If found, add it to the list
+            {
+                mapList.Items.Clear();
+                vItem = mapList.Items.Add(found.feed.mTitle);
+                vItem.SubItems.Add(found.feed.mDescription);
+            }
         }
 
+        ListViewItem vItem;
+        List<FeedMarker> fmList;
       
     }
 }

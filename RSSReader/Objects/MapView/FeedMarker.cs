@@ -23,7 +23,7 @@ namespace RSSReader.Objects.MapView
             location = loc;
             feed = fd;
             this.gmap = gmap;
-            addPIN(gmap.Position);
+            addPIN(location);
         }
 
         private void addPIN(PointLatLng point)
@@ -32,6 +32,10 @@ namespace RSSReader.Objects.MapView
             this.marker = new GMapMarkerGoogleRed(point);
             markersOverlay.Markers.Add(marker);
             gmap.Overlays.Add(markersOverlay);
+
+            marker.ToolTipText = this.feed.mURL;
+            marker.ToolTipMode = MarkerTooltipMode.Never;
+
         }
 
         /*
@@ -39,6 +43,7 @@ namespace RSSReader.Objects.MapView
          * about the correlated feed and will also
          * have a custom image to display
          */
+
         private Bitmap bitmap;
         private GMapControl gmap;
         private GMapMarkerGoogleRed marker;
