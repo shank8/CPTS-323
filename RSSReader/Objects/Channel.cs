@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+
 namespace RSSReader.Objects
 {
     public class Channel
@@ -19,6 +20,7 @@ namespace RSSReader.Objects
                 mTitle = "No Title";
 
             mFeeds = new List<Feed>();
+            mDateAdded = DateTime.Today.ToString();
 
         }
 
@@ -29,6 +31,7 @@ namespace RSSReader.Objects
 
         public string mTitle;
         public string mDescription;
+        public string mDateAdded;
         public List<Feed> mFeeds;
     }
 }

@@ -7,6 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using RSSReader.Objects;
+using System.Xml;
+using System.Xml.Serialization;
+using System.IO;
+using LoadHandler;
+using SaveHandler;
 
 namespace RSSReader
 {
@@ -36,6 +41,9 @@ namespace RSSReader
 
             // Now add it to the tree view
             treeView.Nodes.Add(channel.mTitle);
+
+            SaveXML newXMLSave = new SaveXML();
+            newXMLSave.toXMLDoc(channels);
 
             this.Close();
         }

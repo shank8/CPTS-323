@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Collection>
+  <Channel>
+    <Title></Title>
+    <Description></Description>
+    <DateAdded></DateAdded>
+    <Feed>
+      <FeedTitle></FeedTitle>
+      <URL></URL>
+      <FeedDescription></FeedDescription>
+    </Feed>
+  </Channel>
+  <Settings>
+    <RefreshRate></RefreshRate>
+    <ArticlesDisplayed></ArticlesDisplayed>
+  </Settings>
+</Collection>

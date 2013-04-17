@@ -5,6 +5,8 @@ using System.Text;
 using System.Text.RegularExpressions;
 
 
+///     THIS IS RYANS
+
 namespace RSSReader.Objects
 {
     public class Article

@@ -7,7 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using RSSReader.Objects;
-
+using System.Xml;
+using System.Xml.Serialization;
+using System.IO;
+using LoadHandler;
+using SaveHandler;
 
 namespace RSSReader
 {
@@ -47,8 +51,10 @@ namespace RSSReader
             selected.Nodes.Add(feed.mTitle);
 
             // !!!!! use user-defined number of articles to display/refresh at a time. 10 is arbitrary number !!!!! 
-            feed.refresh(10); 
-           
+            feed.refresh(10);
+
+            SaveXML newXMLSave = new SaveXML();
+            newXMLSave.toXMLDoc(channels);
 
             this.Close();
 

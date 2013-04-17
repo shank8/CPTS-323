@@ -24,7 +24,13 @@ namespace RSSReader.Objects
         {
             mArticles = new List<Article>();
 
+            if( mURL == "" )
+            {
+               mURL = "http://rss.cnn.com/rss/cnn_topstories.rss";
+            }
+
             var reader = XmlReader.Create(mURL);
+         
 
             var feed = SyndicationFeed.Load(reader);
 

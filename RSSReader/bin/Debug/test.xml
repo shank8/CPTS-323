@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Collection>
+  <Channel>
+    <Title>ldjf</Title>
+    <Description>lakdjfasdf</Description>
+    <DateAdded>4/17/2013 12:00:00 AM</DateAdded>
+    <Feed>
+      <Title>lfkjd</Title>
+      <URL>http://rss.nytimes.com/services/xml/rss/nyt/Americas.xml</URL>
+      <Description>fladlfjasd</Description>
+    </Feed>
+  </Channel>
+  <Channel>
+    <Title>Hi</Title>
+    <Description>ba
+</Description>
+    <DateAdded>4/17/2013 12:00:00 AM</DateAdded>
+    <Feed>
+      <Title>tie</Title>
+      <URL>http://www.nasa.gov/rss/breaking_news.rss</URL>
+      <Description>flasdjf</Description>
+    </Feed>
+  </Channel>
+</Collection>

@@ -13,7 +13,7 @@ namespace RSSReader
 {
     public partial class MapView : Form
     {
-        public MapView()
+        public MapView(RSSReader menu)
         {
             InitializeComponent();
         }
@@ -61,6 +61,6 @@ namespace RSSReader
 
         }
 
-      
+        
     }
 }
