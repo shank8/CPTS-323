@@ -10,31 +10,54 @@ using RSSReader.Objects;
 using System.Xml;
 using System.Xml.Serialization;
 using System.IO;
-
-using XML_Handler;
-using XML_Parser;
+using LoadHandler;
+using SaveHandler;
 
 namespace RSSReader
 {
     public partial class ListView : Form
     {
-        public ListView()
+        public ListView(RSSReader menu)
         {
             InitializeComponent();
 
+            filterType = 1;
             Channels = new List<Channel>();
-
-
+            refreshRate = 5;
+            numDisplayArticles = 10;
+            this.menu = menu;
+            updateTimer();
         }
 
         private void ListView_Load(object sender, EventArgs e)
         {
             // When the view loads, we should also load the saved feeds
-
+            LoadXML newLoadXML = new LoadXML();
+            Channels = newLoadXML.toList();
+            refreshAll();
         }
 
         private void remBtn_Click(object sender, EventArgs e)
         {
+            if (channelTree.SelectedNode.Level == 0)
+            {
+                Channel ch;
+
+                ch = Channels.Find(
+                    delegate(Channel csh)
+                    {
+                        return (csh.mTitle == channelTree.SelectedNode.Text);
+                    });
+
+                if (ch != null)
+                {
+                    Channels.Remove(ch);
+                    refreshAll();
+                    SaveXML newXMLSave = new SaveXML();
+                    newXMLSave.toXMLDoc(Channels);
+                }
+
+            }
 
         }
 
@@ -45,7 +68,6 @@ namespace RSSReader
             newChannel.Show();
 
         }
-
 
         private void channelTree_NodeMouseDoubleClick(object sender, TreeNodeMouseClickEventArgs e)
         {
@@ -62,8 +84,6 @@ namespace RSSReader
             }
         }
 
-       
-
         private void channelTree_AfterSelect(object sender, TreeViewEventArgs e)
         {
             if (e.Node.Level > 0) //not a channel
@@ -71,25 +91,30 @@ namespace RSSReader
 
                 int ChannelIndex = e.Node.Parent.Index;
                 int FeedIndex = e.Node.Index;
-                    currentFeed = Channels[ChannelIndex].mFeeds[FeedIndex];
+                currentFeed = Channels[ChannelIndex].mFeeds[FeedIndex];
 
-                for (int i = 0; i < 10; ++i) // !!!!! use user-defined number of articles to display/refresh at a time. 10 is arbitrary number !!!!! 
+                articleListView.Items.Clear();
+                currentFeed.Filter(filterType);
+
+                for (int i = 0; i < numDisplayArticles; ++i) // !!!!! use user-defined number of articles to display/refresh at a time. 10 is arbitrary number !!!!! 
                 {
-                    if ((Channels[ChannelIndex].mFeeds[FeedIndex].mArticles[i] != null) || (!Channels[ChannelIndex].mFeeds[FeedIndex].mArticles[i].isIncomplete()))
-                    {
-                        ArticleTreeView.Nodes.Add(Channels[ChannelIndex].mFeeds[FeedIndex].mArticles[i].mTitle);
-                        Article currentArticle = Channels[ChannelIndex].mFeeds[FeedIndex].mArticles[i];
-                        ArticleTreeView.Nodes[i].Nodes.Add("Description: " + currentArticle.mDescription );
-                        ArticleTreeView.Nodes[i].Nodes.Add("Link: " + currentArticle.mLink);
-                        ArticleTreeView.Nodes[i].Nodes.Add("Publish Date: " + currentArticle.mPubDate);
+                    //  if ((Channels[ChannelIndex].mFeeds[FeedIndex].mArticles[i] != null) || (!Channels[ChannelIndex].mFeeds[FeedIndex].mArticles[i].isIncomplete()))
+                    //  {
 
-                    }
+                    Article cur = Channels[ChannelIndex].mFeeds[FeedIndex].mArticles[i];
+                    ListViewItem it = articleListView.Items.Add(cur.mTitle);
+                    it.SubItems.Add(cur.mDescription);
+                    it.SubItems.Add(cur.mPubDate.ToString());
+                    it.SubItems.Add(cur.mLink);
+
+                    //  }
                 }
+                articleListView.AutoResizeColumns(ColumnHeaderAutoResizeStyle.ColumnContent);
 
             }
-    
 
-    }
+
+        }
 
         private void ArticleTreeView_AfterSelect(object sender, TreeViewEventArgs e)
         {
@@ -101,57 +126,175 @@ namespace RSSReader
 
         private void byNameToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            filterType = 1;
             channelTree.Nodes.Clear();
-          //  Channels.OrderBy( Channels[0].mTitle );
-           // Channels[0].mFeeds
+            Channels.Sort(delegate(Channel c1, Channel c2) { return c1.mTitle.CompareTo(c2.mTitle); });
 
+            for (int i = 0; i < Channels.Count; i++)
+            {
+                channelTree.Nodes.Add(Channels[i].mTitle);
 
-           
-        
+                for (int j = 0; j < Channels[i].mFeeds.Count; j++)
+                {
+                    channelTree.Nodes[i].Nodes.Add(Channels[i].mFeeds[j].mTitle);
+                }
+            }
+
         }
 
-        void sortByDate( )
+        private void byDateToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            List<Channel> newList = new List<Channel>();
+            filterType = 2;
+            channelTree.Nodes.Clear();
+            Channels.Sort(delegate(Channel c1, Channel c2) { return c1.mDateAdded.CompareTo(c2.mDateAdded); });
 
-            for( int i = 0; i < Channels.Count; i++ )
+            for (int i = 0; i < Channels.Count; i++)
             {
+                channelTree.Nodes.Add(Channels[i].mTitle);
 
+                for (int j = 0; j < Channels[i].mFeeds.Count; j++)
+                {
+                    channelTree.Nodes[i].Nodes.Add(Channels[i].mFeeds[j].mTitle);
+                }
             }
+
         }
 
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //http://support.microsoft.com/kb/815813
-
+            SaveXML newXMLSave = new SaveXML();
+            newXMLSave.toXMLDoc(Channels);
         }
 
-
-        public bool loadXML(string path)
+        private void loadToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
-            Console.WriteLine("Loading XML file from " + @path);
-            using (TextReader r = new StreamReader(@path))
-            {
-                XmlSerializer s = new XmlSerializer(typeof(List<State>));
-                parser.stateList = (List<State>)s.Deserialize(r);
-            }
-            return true;
+            LoadXML newLoadXML = new LoadXML();
+            Channels = newLoadXML.toList();
+            refreshAll();
         }
 
-        public bool saveXML(string path)
+
+        private void RefreshRateToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Console.WriteLine("Saving XML file to " + @path);
-            using (TextWriter w = new StreamWriter(@path))
+            var clickedMenuItem = sender as ToolStripMenuItem;
+            var menuText = clickedMenuItem.Text;
+
+            switch (menuText)
             {
-                XmlSerializer s = new XmlSerializer(typeof(List<State>));
-                s.Serialize(w, parser.stateList);
+                case "Every 5 Minutes":
+                    refreshRate = 5;
+                    break;
+
+                case "Every 10 Minutes":
+                    refreshRate = 10;
+                    break;
+
+                case "Every 15 Minutes":
+                    refreshRate = 15;
+                    break;
+
+                case "Every Hour":
+                    refreshRate = 60;
+                    break;
+
             }
-            return true;
         }
+
+        private void DisplayArticlesNumberToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            var clickedMenuItem = sender as ToolStripMenuItem;
+            var menuText = clickedMenuItem.Text;
+
+            switch (menuText)
+            {
+                case "5 Articles":
+                    numDisplayArticles = 5;
+                    MessageBox.Show("here");
+                    break;
+
+                case "10 Articles":
+                    numDisplayArticles = 10;
+                    break;
+
+                case "15 Articles":
+                    numDisplayArticles = 15;
+                    break;
+
+                case "20 Articles":
+                    numDisplayArticles = 20;
+                    break;
+            }
+
+            refreshAll();
+        }
+
+        private void updateTimer()
+        {
+            timer1.Interval = refreshRate * 60 * 1000; //If refresh is 5, it is every 5 minutes
+            timer1.Start();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            refreshAll();
+        }
+
+        public void refreshAll()
+        {
+            channelTree.Nodes.Clear();
+
+            for (int i = 0; i < Channels.Count; i++)
+            {
+                channelTree.Nodes.Add(Channels[i].mTitle);
+
+                for (int j = 0; j < Channels[i].mFeeds.Count; j++)
+                {
+                    channelTree.Nodes[i].Nodes.Add(Channels[i].mFeeds[j].mTitle);
+                }
+            }
+
+            articleListView.Items.Clear();
+
+            foreach (Channel i in Channels)
+                foreach (Feed j in i.mFeeds)
+                    j.refresh(numDisplayArticles);
+        }
+
+
+
+        private void articleListView_ItemActivate(object sender, EventArgs e)
+        {
+
+            webBrowser.Navigate(articleListView.SelectedItems[0].SubItems[3].Text);
+        }
+
+        private void webBrowser_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+
+        }
+
+        private void mainMenuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SaveXML newXMLSave = new SaveXML();
+            newXMLSave.toXMLDoc(Channels);
+            this.Hide();
+            menu.Show();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SaveXML newXMLSave = new SaveXML();
+            newXMLSave.toXMLDoc(Channels);
+            Application.Exit();
+
+        }
+
         public List<Channel> Channels;
         public Feed currentFeed;
-        public Parser parser = new Parser();
+        public int refreshRate;
+        public int numDisplayArticles;
+        public RSSReader menu;
+        public int filterType;
 
     }
 }

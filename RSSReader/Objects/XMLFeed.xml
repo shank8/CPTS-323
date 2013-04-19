@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1" ?> 
+<rss version="2.0"> 
+  <Channel>
+      <Title>Sports and Music</Title> 
+      <Link>http://espn.go.com/</Link> 
+      <Description>ESPN: All sports</Description> 
+      <Item> 
+        <Title>Baseball News</Title> 
+        <Link>http://espn.go.com/mlb/</Link> 
+        <Description>Keep track of all MLB related stats and news</Description>
+      </Item> 
+      <Item> 
+        <Title>Football </Title> 
+        <Link>http://espn.go.com/nfl/schedule</Link> 
+        <Description>Schedule of all next season's NFL games</Description> 
+       </Item> 
+       <Item> <!-- Add news from RapRadar soon--> 
+        <Title>Producing</Title> 
+        <Link>http://www.image-line.com/documents/flstudio.html</Link> 
+        <description>FL Studio news and updates</description> 
+        </Item> 
+  </Channel> 
+</rss>

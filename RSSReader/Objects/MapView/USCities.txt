@@ -1,0 +1,1001 @@
+1	Abilene	115 926	117 063	 	116 775	-0.08	32.45°N	99.74°W	Texas	 	 
+2	Akron	217 106	199 110	 	193 403	-0.96	41.08°N	81.52°W	Ohio	 	Cleveland 
+4	Alameda	72 259	73 812	 	73 655	-0.07	37.77°N	122.26°W	California	 	San Francisco
+5	Albany	94 301	97 856	 	98 001	0.05	42.67°N	73.80°W	New York	 	Albany
+6	Albany	76 925	77 434	 	76 840	-0.26	31.58°N	84.18°W	Georgia	 	 
+7	Albany	41 016	50 158	 	52 869	1.77	44.62°N	123.09°W	Oregon	 	 
+8	Albuquerque	449 380	545 852	 	571 397	1.54	35.12°N	106.62°W	New Mexico	 	Albuquerque
+9	Alexandria	128 292	139 966	 	143 541	0.84	38.82°N	77.09°W	Virginia	 	Washington-Baltimore
+10	Alexandria	46 442	47 723	 	47 013	-0.50	31.29°N	92.46°W	Louisiana	 	 
+11	Alhambra	85 804	83 089	 	82 127	-0.39	34.08°N	118.13°W	California	 	Los Angeles
+12	Aliso Viejo	40 018	47 823	 	51 682	2.62	33.57°N	117.73°W	California	 	Los Angeles
+13	Allen	43 237	84 246	 	102 124	6.63	33.11°N	96.67°W	Texas	 	Dallas
+14	Allentown	106 635	118 032	 	120 441	0.68	40.60°N	75.48°W	Pennsylvania	 	Allentown
+15	Aloha	41 741	49 425	 	51 767	1.56	45.49°N	122.87°W	Oregon	 	Portland
+16	Alpharetta	47 119	57 551	 	62 971	3.05	34.07°N	84.27°W	Georgia	 	Atlanta
+17	Altadena	42 610	42 777	 	42 571	-0.16	34.19°N	118.13°W	California	 	Los Angeles
+18	Altamonte Springs	41 391	41 496	 	41 630	0.11	28.66°N	81.40°W	Florida	 	Orlando
+19	Altoona	49 523	46 320	 	45 232	-0.79	40.51°N	78.40°W	Pennsylvania	 	 
+20	Amarillo	173 633	190 695	 	195 522	0.84	35.20°N	101.82°W	Texas	 	 
+21	Ames	50 859	58 965	 	60 909	1.09	42.02°N	93.63°W	Iowa	 	 
+22	Anaheim	328 759	336 265	 	339 481	0.32	33.84°N	117.87°W	California	 	Los Angeles
+23	Anchorage	260 283	291 826	 	299 230	0.84	61.18°N	149.19°W	Alaska	 	 
+24	Anderson	59 765	56 129	 	54 947	-0.71	40.09°N	85.69°W	Indiana	 	Indianapolis
+25	Ankeny	27 430	45 582	 	51 994	4.48	41.72°N	93.61°W	Iowa	 	 
+26	Ann Arbor	114 462	113 934	 	113 376	-0.16	42.28°N	83.73°W	Michigan	 	Detroit-Windsor
+27	Antelope	 	45 770	 	46 876				California	 	 
+28	Antioch	90 632	102 372	 	106 658	1.38	37.99°N	121.80°W	California	 	San Francisco
+29	Apache Junction	31 910	35 840	 	43 119	6.36	33.41°N	111.55°W	Arizona	 	Phoenix
+30	Apex	20 646	37 476	 	45 775	6.90	35.73°N	78.85°W	North Carolina	 	Raleigh
+31	Apopka	27 210	41 542	 	47 227	4.37	28.69°N	81.51°W	Florida	 	Orlando
+32	Appleton	70 315	72 623	 	73 042	0.19	44.27°N	88.40°W	Wisconsin	 	 
+33	Apple Valley	54 254	69 135	 	73 542	2.08	34.53°N	117.21°W	California	 	 
+34	Apple Valley	45 527	49 084	 	50 324	0.84	44.75°N	93.20°W	Minnesota	 	Minneapolis-Saint Paul
+35	Arcadia	53 054	56 364	 	57 097	0.43	34.13°N	118.04°W	California	 	Los Angeles
+36	Arden-Arcade	96 025	92 186	 	91 034	-0.42	38.60°N	121.38°W	California	 	Sacramento
+37	Arlington	333 201	365 438	 	375 033	0.87	32.69°N	97.13°W	Texas	 	Dallas
+38	Arlington	189 444	207 627	 	212 798	0.82	38.88°N	77.10°W	Virginia	 	Washington-Baltimore
+39	Arlington	42 389	42 844	 	42 683	-0.13	42.42°N	71.16°W	Massachusetts	 	Boston
+40	Arlington Heights	76 429	75 101	 	74 290	-0.36	42.09°N	87.98°W	Illinois	 	Chicago
+41	Arvada	102 401	106 433	 	107 380	0.30	39.82°N	105.11°W	Colorado	 	Denver
+42	Ashburn	 	43 511	 	44 877				Virginia	 	 
+43	Asheville	71 116	83 393	 	86 711	1.31	35.57°N	82.55°W	North Carolina	 	 
+44	Aspen Hill	50 228	48 759	 	48 420	-0.23	39.09°N	77.08°W	Maryland	 	Washington-Baltimore
+45	Atascocita	35 757	65 844	 	75 719	4.77	30.03°N	95.18°W	Texas	 	Houston
+46	Athens-Clarke	100 267	116 714	 	120 802	1.15	33.95°N	83.39°W	Georgia	Athens-Clarke County	 
+47	Atlanta	418 109	420 003	 	416 751	-0.26	33.76°N	84.42°W	Georgia	 	Atlanta
+48	Attleboro	42 068	43 593	 	43 965	0.28	41.93°N	71.30°W	Massachusetts	 	Boston
+49	Auburn	43 550	70 180	 	79 357	4.18	47.30°N	122.21°W	Washington	 	Seattle
+50	Auburn	45 768	53 380	 	55 803	1.49	32.59°N	85.48°W	Alabama	 	 
+51	Augusta-Richmond	195 185	200 549	 	199 847	-0.12	33.46°N	81.99°W	Georgia	Augusta-Richmond County	Augusta
+52	Aurora	276 482	325 078	 	339 046	1.41	39.71°N	104.73°W	Colorado	 	Denver
+53	Aurora	143 288	197 899	 	215 986	2.96	41.77°N	88.29°W	Illinois	 	Chicago
+54	Austin	658 964	790 390	 	830 722	1.67	30.31°N	97.75°W	Texas	 	Austin
+55	Avondale	36 020	76 238	 	92 654	6.72	33.42°N	112.32°W	Arizona	 	Phoenix
+56	Azusa	44 717	46 361	 	46 657	0.21	34.14°N	117.91°W	California	 	Los Angeles
+57	Bakersfield	243 658	347 483	 	381 651	3.18	35.36°N	119.00°W	California	 	Bakersfield
+58	Baldwin Park	75 837	75 390	 	75 139	-0.11	34.08°N	117.97°W	California	 	Los Angeles
+59	Baltimore	651 154	620 961	 	610 221	-0.58	39.30°N	76.61°W	Maryland	 	Washington-Baltimore
+60	Barnstable Town	47 821	45 193	 	44 674	-0.38	41.70°N	70.30°W	Massachusetts	 	 
+61	Bartlett	44 222	54 613	 	58 338	2.22	35.22°N	89.84°W	Tennessee	 	Memphis
+62	Bartlett	36 763	41 208	 	43 278	1.65	41.98°N	88.21°W	Illinois	 	Chicago
+63	Baton Rouge	228 699	229 493	 	225 500	-0.58	30.45°N	91.13°W	Louisiana	 	Baton Rouge
+64	Battle Creek	53 364	52 347	 	51 820	-0.34	42.30°N	85.23°W	Michigan	 	 
+65	Bayonne	61 842	63 024	 	63 076	0.03	40.66°N	74.11°W	New Jersey	 	New York
+66	Baytown	66 527	71 802	 	72 819	0.47	29.75°N	94.97°W	Texas	 	Houston
+67	Beaumont	113 713	118 296	 	118 537	0.07	30.09°N	94.14°W	Texas	 	 
+68	Beaumont	11 536	36 877	 	49 053	9.98	33.93°N	116.98°W	California	 	Los Angeles
+69	Beavercreek	37 980	45 193	 	47 096	1.38	39.73°N	84.06°W	Ohio	 	Dayton
+70	Beaverton	79 277	89 803	 	93 826	1.47	45.48°N	122.82°W	Oregon	 	Portland
+71	Bedford	47 152	46 979	 	46 820	-0.11	32.85°N	97.13°W	Texas	 	Dallas
+72	Bel Air South	39 711	47 709	 	50 521	1.93	39.50°N	76.32°W	Maryland	 	Washington-Baltimore
+73	Belleville	42 236	44 478	 	44 767	0.22	38.53°N	90.00°W	Illinois	 	Saint Louis
+74	Bellevue	112 557	122 363	 	125 790	0.92	47.60°N	122.16°W	Washington	 	Seattle
+75	Bellevue	44 389	50 137	 	52 098	1.29	41.16°N	95.92°W	Nebraska	 	Omaha
+76	Bellflower	72 878	76 616	 	77 650	0.45	33.89°N	118.13°W	California	 	Los Angeles
+77	Bell Gardens	44 054	42 072	 	41 437	-0.51	33.97°N	118.15°W	California	 	Los Angeles
+78	Bellingham	67 478	80 885	 	85 171	1.74	48.74°N	122.47°W	Washington	 	 
+79	Bend	52 031	76 639	 	86 990	4.31	44.07°N	121.31°W	Oregon	 	 
+80	Bentonville	20 002	35 301	 	41 182	5.27	36.37°N	94.20°W	Arkansas	 	 
+81	Berkeley	102 736	112 580	 	114 542	0.58	37.87°N	122.27°W	California	 	San Francisco
+82	Berwyn	54 016	56 657	 	57 329	0.39	41.84°N	87.79°W	Illinois	 	Chicago
+83	Bethesda	55 277	60 858	 	62 400	0.84	38.99°N	77.12°W	Maryland	 	Washington-Baltimore
+84	Bethlehem	71 329	74 982	 	75 503	0.23	40.63°N	75.37°W	Pennsylvania	 	Allentown
+85	Billerica	38 981	 	 	41 063		42.56°N	71.26°W	Massachusetts	 	Boston
+86	Billings	91 777	104 170	 	107 289	0.99	45.79°N	108.54°W	Montana	 	 
+87	Biloxi	50 851	44 054	 	42 347	-1.31	30.41°N	88.93°W	Mississippi	 	 
+88	Binghamton	47 380	47 376	 	46 932	-0.31	42.10°N	75.91°W	New York	 	 
+89	Birmingham	242 452	212 237	 	202 965	-1.48	33.53°N	86.80°W	Alabama	 	Birmingham
+90	Bismarck	55 792	61 272	 	62 381	0.60	46.81°N	100.77°W	North Dakota	 	 
+91	Blacksburg	39 590	42 620	 	43 349	0.57	37.23°N	80.43°W	Virginia	 	 
+92	Blaine	45 014	57 186	 	60 629	1.97	45.17°N	93.21°W	Minnesota	 	Minneapolis-Saint Paul
+93	Bloomington	71 602	80 405	 	82 781	0.98	39.17°N	86.52°W	Indiana	 	 
+94	Bloomington	85 172	82 893	 	81 815	-0.44	44.83°N	93.32°W	Minnesota	 	Minneapolis-Saint Paul
+95	Bloomington	65 422	76 610	 	79 904	1.41	40.48°N	88.97°W	Illinois	 	 
+96	Blue Springs	48 199	52 575	 	53 795	0.77	39.02°N	94.27°W	Missouri	 	Kansas City
+97	Boca Raton	83 014	84 392	 	85 269	0.35	26.37°N	80.11°W	Florida	 	Miami
+98	Boise City	195 024	205 671	 	209 192	0.57	43.61°N	116.23°W	Idaho	Boise	Boise City
+99	Bolingbrook	56 387	73 366	 	78 936	2.47	41.70°N	88.08°W	Illinois	 	Chicago
+100	Bonita Springs	32 867	43 914	 	48 762	3.55	26.34°N	81.79°W	Florida	 	 
+101	Bossier City	56 497	61 315	 	62 165	0.46	32.52°N	93.66°W	Louisiana	 	 
+102	Boston	589 143	617 594	 	622 374	0.26	42.34°N	71.02°W	Massachusetts	 	Boston
+103	Boulder	94 542	97 385	 	98 021	0.22	40.03°N	105.25°W	Colorado	 	Denver
+104	Bountiful	41 306	42 552	 	42 901	0.27	40.88°N	111.87°W	Utah	 	Salt Lake City
+105	Bowie	52 181	54 727	 	55 911	0.72	38.96°N	76.74°W	Maryland	 	Washington-Baltimore
+106	Bowling Green	49 403	58 067	 	60 529	1.39	36.97°N	86.44°W	Kentucky	 	 
+107	Boynton Beach	60 500	68 217	 	70 732	1.21	26.53°N	80.08°W	Florida	 	West Palm Beach
+108	Bradenton	49 723	49 546	 	49 492	-0.04	27.49°N	82.58°W	Florida	 	Sarasota-Bradenton
+109	Brandon	77 895	103 483	 	112 103	2.70	27.93°N	82.29°W	Florida	 	Tampa
+110	Brentwood	53 917	60 664	 	62 633	1.07	40.78°N	73.25°W	New York	 	New York
+111	Brentwood	24 023	51 481	 	60 164	5.33	37.93°N	121.71°W	California	 	San Francisco
+112	Bridgeport	139 529	144 229	 	144 694	0.11	41.19°N	73.20°W	Connecticut	 	New York
+113	Bristol	60 227	60 477	 	60 274	-0.11	41.68°N	72.94°W	Connecticut	 	Hartford
+114	Brockton	94 304	93 810	 	93 372	-0.16	42.08°N	71.03°W	Massachusetts	 	Boston
+115	Broken Arrow	80 354	98 850	 	104 772	1.96	36.04°N	95.79°W	Oklahoma	 	Tulsa
+116	Brookline	57 107	58 732	 	59 039	0.17	42.32°N	71.14°W	Massachusetts	 	Boston
+117	Brooklyn Park	67 388	75 781	 	78 093	1.01	45.11°N	93.35°W	Minnesota	 	Minneapolis-Saint Paul
+118	Broomfield	39 185	55 889	 	60 084	2.44	39.94°N	105.06°W	Colorado	 	Denver
+119	Brownsville	142 439	175 023	 	185 533	1.96	25.93°N	97.48°W	Texas	 	Matamoros-Brownsville
+120	Bryan	65 668	76 201	 	78 970	1.20	30.67°N	96.37°W	Texas	 	 
+121	Buckeye	9 399	50 876	 	69 496	10.96	33.44°N	112.59°W	Arizona	 	 
+122	Buena Park	77 962	80 530	 	81 207	0.28	33.86°N	118.00°W	California	 	Los Angeles
+123	Buffalo	292 648	261 310	 	251 636	-1.25	42.89°N	78.86°W	New York	 	Buffalo-Saint Catharines
+124	Buffalo Grove	43 216	41 496	 	41 096	-0.32	42.17°N	87.96°W	Illinois	 	Chicago
+125	Bullhead City	33 769	39 540	 	41 797	1.87	35.11°N	114.56°W	Arizona	 	 
+126	Burbank	100 316	103 340	 	103 794	0.15	34.19°N	118.33°W	California	 	Los Angeles
+127	Burleson	21 407	36 690	 	41 805	4.45	32.53°N	97.33°W	Texas	 	Dallas
+128	Burlington	45 725	49 963	 	51 067	0.73	36.08°N	79.45°W	North Carolina	 	Greensboro
+129	Burlington	39 819	42 417	 	42 921	0.39	44.49°N	73.23°W	Vermont	 	 
+130	Burnsville	60 220	60 306	 	60 419	0.06	44.76°N	93.28°W	Minnesota	 	Minneapolis-Saint Paul
+131	Caldwell	27 318	46 237	 	53 094	4.72	43.66°N	116.67°W	Idaho	 	Boise City
+132	Calexico	27 129	38 572	 	42 456	3.25	32.68°N	115.50°W	California	 	Mexicali
+133	Camarillo	57 225	65 201	 	67 250	1.04	34.22°N	119.03°W	California	 	Los Angeles
+134	Cambridge	101 355	105 162	 	105 919	0.24	42.38°N	71.12°W	Massachusetts	 	Boston
+135	Camden	79 904	77 344	 	76 102	-0.54	39.94°N	75.11°W	New Jersey	 	Philadelphia
+136	Canton	80 959	73 007	 	70 620	-1.10	40.81°N	81.37°W	Ohio	 	 
+137	Cape Coral	102 468	154 305	 	171 938	3.67	26.64°N	82.00°W	Florida	 	 
+138	Carlsbad	78 306	105 328	 	113 673	2.57	33.12°N	117.29°W	California	 	San Diego-Tijuana
+139	Carmel	53 330	79 191	 	89 458	4.15	39.97°N	86.11°W	Indiana	 	Indianapolis
+140	Carmichael	49 742	61 762	 	65 566	2.01	38.63°N	121.32°W	California	 	Sacramento
+141	Carrollton	109 579	119 097	 	127 412	2.28	32.99°N	96.90°W	Texas	 	Dallas
+142	Carson	89 730	91 714	 	91 932	0.08	33.84°N	118.26°W	California	 	Los Angeles
+143	Carson	52 457	55 274	 	56 642	0.82	39.15°N	119.74°W	Nevada	Carson City	 
+144	Cary	96 558	135 234	 	150 983	3.74	35.78°N	78.80°W	North Carolina	 	Raleigh
+145	Casa Grande	26 159	48 571	 	59 155	6.79	32.89°N	111.74°W	Arizona	 	 
+146	Casas Adobes	54 011	66 795	 	75 588	4.21	32.32°N	110.99°W	Arizona	 	Tucson
+147	Casper	49 740	55 316	 	56 568	0.75	42.83°N	106.33°W	Wyoming	 	 
+148	Castle Rock	20 250	48 231	 	61 161	8.24	39.38°N	104.85°W	Colorado	 	 
+149	Castro Valley	57 292	61 388	 	62 558	0.63	37.71°N	122.06°W	California	 	San Francisco
+150	Catalina Foothills	53 794	50 796	 	56 554	3.64	32.30°N	110.92°W	Arizona	 	Tucson
+151	Cathedral City	42 647	51 200	 	54 159	1.89	33.83°N	116.46°W	California	 	Los Angeles
+152	Catonsville	39 820	41 567	 	42 045	0.38	39.26°N	76.74°W	Maryland	 	Washington-Baltimore
+153	Cedar Hill	32 101	45 028	 	49 499	3.21	32.58°N	96.96°W	Texas	 	Dallas
+154	Cedar Park	25 901	48 937	 	61 631	7.99	30.51°N	97.83°W	Texas	 	Austin
+155	Cedar Rapids	121 524	126 326	 	127 221	0.24	41.97°N	91.67°W	Iowa	 	 
+156	Centennial	102 650	100 377	 	99 859	-0.17	39.60°N	104.85°W	Colorado	 	Denver
+157	Centerville	136	23 999	 	67 405	41.09	39.64°N	84.14°W	Ohio	 	Dayton
+158	Centreville	48 661	71 135	 	79 436	3.75	38.85°N	77.44°W	Virginia	 	Washington-Baltimore
+159	Ceres	34 684	45 417	 	48 839	2.45	37.60°N	120.96°W	California	 	Modesto
+160	Cerritos	51 488	49 041	 	48 120	-0.63	33.87°N	118.07°W	California	 	Los Angeles
+161	Champaign	70 269	81 055	 	83 796	1.11	40.11°N	88.26°W	Illinois	 	 
+162	Chandler	177 103	236 123	 	259 453	3.19	33.30°N	111.87°W	Arizona	 	Phoenix
+163	Chapel Hill	47 870	57 233	 	59 926	1.54	35.93°N	79.04°W	North Carolina	 	Raleigh
+164	Charleston	97 471	120 083	 	126 552	1.76	32.79°N	79.99°W	South Carolina	 	Charleston
+165	Charleston	53 483	51 400	 	50 412	-0.64	38.35°N	81.63°W	West Virginia	 	 
+166	Charlotte	566 929	731 424	 	783 711	2.33	35.20°N	80.83°W	North Carolina	 	Charlotte
+167	Charlottesville	40 088	43 475	 	42 809	-0.51	38.04°N	78.49°W	Virginia	 	 
+168	Chattanooga	156 293	167 674	 	169 727	0.41	35.07°N	85.26°W	Tennessee	 	Chattanooga
+169	Cheektowaga	79 988	75 178	 	73 620	-0.70	42.91°N	78.75°W	New York	 	Buffalo-Saint Catharines
+170	Chesapeake	199 184	222 209	 	227 800	0.83	36.68°N	76.31°W	Virginia	 	Norfolk-Virginia Beach
+171	Chesterfield	46 822	47 484	 	47 758	0.19	38.65°N	90.58°W	Missouri	 	Saint Louis
+172	Cheyenne	53 360	59 466	 	60 868	0.78	41.15°N	104.79°W	Wyoming	 	 
+173	Chicago	2 896 051	2 695 598	 	2 634 460	-0.76	41.84°N	87.68°W	Illinois	 	Chicago
+174	Chico	75 533	86 187	 	90 664	1.70	39.75°N	121.81°W	California	 	 
+175	Chicopee	54 653	55 298	 	55 143	-0.09	42.18°N	72.57°W	Massachusetts	 	Springfield
+176	Chino	69 789	77 983	 	80 334	0.99	34.01°N	117.69°W	California	 	Los Angeles
+177	Chino Hills	66 787	74 799	 	78 761	1.74	33.97°N	117.75°W	California	 	Los Angeles
+178	Chula Vista	173 553	243 916	 	266 263	2.97	32.63°N	117.04°W	California	 	San Diego-Tijuana
+179	Cicero	85 616	83 891	 	83 734	-0.06	41.84°N	87.76°W	Illinois	 	Chicago
+180	Cincinnati	331 281	296 943	 	286 038	-1.24	39.14°N	84.51°W	Ohio	 	Cincinnati
+181	Citrus Heights	85 071	83 301	 	82 647	-0.26	38.69°N	121.29°W	California	 	Sacramento
+182	Clarksville	103 537	132 929	 	142 228	2.28	36.56°N	87.35°W	Tennessee	 	 
+183	Clearwater	109 362	107 685	 	107 119	-0.18	27.98°N	82.77°W	Florida	 	Tampa
+184	Cleveland	477 472	396 815	 	375 681	-1.81	41.48°N	81.68°W	Ohio	 	Cleveland
+185	Cleveland	37 368	41 285	 	42 453	0.93	35.18°N	84.87°W	Tennessee	 	 
+186	Cleveland Heights	50 769	46 121	 	44 625	-1.09	41.51°N	81.56°W	Ohio	 	Cleveland
+187	Clifton	79 062	84 136	 	85 407	0.50	40.86°N	74.16°W	New Jersey	 	New York
+188	Clovis	69 520	95 631	 	104 249	2.92	36.82°N	119.70°W	California	 	Fresno
+189	Coachella	22 835	40 704	 	47 279	5.12	33.68°N	116.15°W	California	 	Los Angeles
+190	Coconut Creek	43 607	52 909	 	56 244	2.06	26.28°N	80.18°W	Florida	 	Miami
+191	Coeur d'Alene	34 724	44 137	 	47 244	2.29	47.70°N	116.78°W	Idaho	 	 
+192	College Station	68 327	93 857	 	101 745	2.73	30.60°N	96.31°W	Texas	 	 
+193	Collierville	32 866	43 965	 	47 707	2.76	35.06°N	89.68°W	Tennessee	 	Memphis
+194	Colorado Springs	361 125	416 427	 	432 043	1.23	38.86°N	104.76°W	Colorado	 	Colorado Springs
+195	Colton	47 860	52 154	 	53 443	0.82	34.06°N	117.32°W	California	 	Los Angeles
+196	Columbia	119 606	129 272	 	132 043	0.71	34.04°N	80.89°W	South Carolina	 	Columbia
+197	Columbia	85 258	108 500	 	115 230	2.03	38.95°N	92.33°W	Missouri	 	 
+198	Columbia	88 254	99 615	 	102 855	1.07	39.20°N	76.86°W	Maryland	 	Washington-Baltimore
+199	Columbus	713 006	787 033	 	804 984	0.75	39.99°N	82.99°W	Ohio	 	Columbus
+200	Columbus	186 291	189 885	 	190 029	0.03	32.51°N	84.87°W	Georgia	 	 
+201	Columbus	39 131	44 061	 	45 435	1.03	39.21°N	85.91°W	Indiana	 	 
+202	Commerce City	21 051	45 913	 	55 547	6.56	39.87°N	104.87°W	Colorado	 	Denver
+203	Compton	93 493	96 455	 	96 766	0.11	33.89°N	118.23°W	California	 	Los Angeles
+204	Concord	121 949	122 067	 	121 999	-0.02	37.97°N	122.00°W	California	 	San Francisco
+205	Concord	56 397	79 066	 	87 799	3.55	35.41°N	80.59°W	North Carolina	 	 
+206	Concord	40 685	42 695	 	43 270	0.45	43.23°N	71.56°W	New Hampshire	 	 
+207	Conroe	38 703	56 207	 	62 141	3.40	30.32°N	95.47°W	Texas	 	 
+208	Conway	43 482	58 908	 	64 205	2.91	35.09°N	92.45°W	Arkansas	 	Little Rock
+209	Coon Rapids	61 607	61 476	 	61 504	0.02	45.17°N	93.31°W	Minnesota	 	Minneapolis-Saint Paul
+210	Coral Gables	42 805	46 780	 	47 687	0.64	25.70°N	80.26°W	Florida	 	Miami
+211	Coral Springs	118 896	121 096	 	123 093	0.55	26.27°N	80.26°W	Florida	 	Miami
+212	Corona	127 767	152 374	 	162 029	2.07	33.87°N	117.57°W	California	 	Los Angeles
+213	Corpus Christi	277 484	305 215	 	310 868	0.61	27.71°N	97.29°W	Texas	 	 
+214	Corvallis	49 430	54 462	 	55 753	0.78	44.57°N	123.28°W	Oregon	 	 
+215	Costa Mesa	109 361	109 960	 	110 168	0.06	33.67°N	117.91°W	California	 	Los Angeles
+216	Council Bluffs	58 216	62 230	 	63 037	0.43	41.24°N	95.86°W	Iowa	 	Omaha
+217	Country Club	36 310	47 105	 	52 539	3.71	25.95°N	80.32°W	Florida	 	Miami
+218	Covina	46 837	47 796	 	47 921	0.09	34.09°N	117.88°W	California	 	Los Angeles
+219	Cranston	79 272	80 387	 	80 457	0.03	41.77°N	71.48°W	Rhode Island	 	Boston
+220	Crystal Lake	38 214	40 743	 	41 971	0.99	42.23°N	88.33°W	Illinois	 	Chicago
+221	Cupertino	52 520	58 302	 	59 935	0.93	37.31°N	122.05°W	California	 	San Francisco
+222	Cutler Bay	30 315	40 286	 	44 096	3.06	25.63°N	80.32°W	Florida	Cutler	Miami
+223	Cuyahoga Falls	49 346	49 652	 	49 443	-0.14	41.17°N	81.52°W	Ohio	 	Cleveland
+224	Cypress	46 549	47 802	 	48 058	0.18	33.82°N	118.04°W	California	 	Los Angeles
+225	Dale City	55 971	65 969	 	68 687	1.35	38.65°N	77.34°W	Virginia	 	Washington-Baltimore
+226	Dallas	1 188 603	1 197 816	 	1 198 814	0.03	32.79°N	96.77°W	Texas	 	Dallas
+227	Daly City	103 627	101 123	 	100 511	-0.20	37.69°N	122.47°W	California	 	San Francisco
+228	Danbury	74 848	80 893	 	82 550	0.68	41.40°N	73.47°W	Connecticut	 	New York
+229	Danville	41 697	42 039	 	42 457	0.33	37.81°N	121.97°W	California	 	San Francisco
+230	Danville	48 411	43 055	 	41 442	-1.26	36.58°N	79.41°W	Virginia	 	 
+231	Davenport	98 359	99 685	 	99 500	-0.06	41.56°N	90.60°W	Iowa	 	Quad Cities
+232	Davie	81 690	91 992	 	96 394	1.57	26.08°N	80.29°W	Florida	 	Miami
+233	Davis	58 656	65 622	 	67 800	1.09	38.55°N	121.74°W	California	 	Sacramento
+234	Dayton	166 210	141 527	 	134 600	-1.66	39.78°N	84.20°W	Ohio	 	Dayton
+235	Daytona Beach	63 775	61 005	 	60 100	-0.50	29.19°N	81.05°W	Florida	 	Daytona Beach
+236	Dearborn	97 703	98 153	 	97 950	-0.07	42.31°N	83.21°W	Michigan	 	Detroit-Windsor
+237	Dearborn Heights	58 264	57 774	 	57 153	-0.36	42.33°N	83.27°W	Michigan	 	Detroit-Windsor
+238	Decatur	82 132	76 122	 	74 155	-0.87	39.85°N	88.93°W	Illinois	 	 
+239	Decatur	54 098	55 683	 	55 915	0.14	34.57°N	86.99°W	Alabama	 	 
+240	Deerfield Beach	74 308	75 018	 	76 325	0.58	26.31°N	80.12°W	Florida	 	Miami
+241	DeKalb	39 072	43 862	 	45 045	0.89	41.93°N	88.75°W	Illinois	 	 
+242	Delano	39 601	53 041	 	58 087	3.08	35.76°N	119.25°W	California	 	 
+243	Delray Beach	60 281	60 522	 	60 946	0.23	26.45°N	80.09°W	Florida	 	West Palm Beach
+244	Deltona	69 634	85 182	 	90 171	1.92	28.91°N	81.21°W	Florida	 	Orlando
+245	Denton	82 616	113 383	 	122 876	2.72	33.21°N	97.13°W	Texas	 	Dallas
+246	Denver	553 691	600 158	 	614 248	0.78	39.77°N	104.87°W	Colorado	 	Denver
+247	Des Moines	199 033	203 433	 	202 781	-0.11	41.58°N	93.62°W	Iowa	 	 
+248	DeSoto	37 653	49 047	 	52 372	2.21	32.60°N	96.86°W	Texas	 	Dallas
+249	Des Plaines	57 131	58 364	 	58 424	0.03	42.03°N	87.90°W	Illinois	 	Chicago
+250	Detroit	951 270	713 777	 	657 312	-2.71	42.38°N	83.10°W	Michigan	 	Detroit-Windsor
+251	Diamond Bar	56 287	55 544	 	55 161	-0.23	34.00°N	117.81°W	California	 	Los Angeles
+252	Doral	21 000	45 704	 	52 971	5.04	25.82°N	80.36°W	Florida	 	Miami
+253	Dothan	58 086	65 496	 	67 196	0.86	31.24°N	85.41°W	Alabama	 	 
+254	Downers Grove	49 940	47 833	 	47 195	-0.45	41.80°N	88.02°W	Illinois	 	Chicago
+255	Downey	107 323	111 772	 	113 000	0.36	33.94°N	118.13°W	California	 	Los Angeles
+256	Draper	25 216	42 274	 	49 173	5.17	40.50°N	111.86°W	Utah	 	Salt Lake City
+257	Dublin	30 055	46 036	 	51 325	3.69	37.72°N	121.91°W	California	 	San Francisco
+258	Dublin	31 657	41 751	 	45 649	3.02	40.12°N	83.13°W	Ohio	 	Columbus
+259	Dubuque	57 811	57 637	 	57 182	-0.26	42.50°N	90.69°W	Iowa	 	 
+260	Duluth	86 319	86 265	 	85 787	-0.19	46.78°N	92.12°W	Minnesota	 	 
+261	Dundalk	62 306	63 597	 	63 796	0.10	39.27°N	76.50°W	Maryland	 	Washington-Baltimore
+262	Dunwoody	32 808	46 267	 	50 311	2.83	33.94°N	84.31°W	Georgia	 	Atlanta
+263	Durham	187 847	228 330	 	240 635	1.77	35.98°N	78.91°W	North Carolina	 	Raleigh
+264	Eagan	63 557	64 206	 	64 835	0.33	44.82°N	93.16°W	Minnesota	 	Minneapolis-Saint Paul
+265	East Hartford	49 575	51 252	 	51 515	0.17	41.76°N	72.62°W	Connecticut	 	Hartford
+266	East Honolulu	 	49 914	 	51 301				Hawaii	 	 
+267	East Lansing	46 607	48 579	 	49 063	0.33	42.74°N	84.48°W	Michigan	 	 
+268	East Los Angeles	124 283	126 496	 	126 666	0.04	34.03°N	118.17°W	California	 	Los Angeles
+269	East Orange	69 824	64 270	 	62 621	-0.86	40.77°N	74.21°W	New Jersey	 	New York
+270	East Providence	48 685	47 037	 	46 476	-0.40	41.80°N	71.36°W	Rhode Island	 	Boston
+271	Eastvale	 	53 668	 	54 964				California	 	 
+272	Eau Claire	61 997	65 883	 	66 793	0.46	44.82°N	91.49°W	Wisconsin	 	 
+273	Eden Prairie	54 901	60 797	 	62 835	1.11	44.85°N	93.46°W	Minnesota	 	Minneapolis-Saint Paul
+274	Edina	47 423	47 941	 	47 846	-0.07	44.89°N	93.36°W	Minnesota	 	Minneapolis-Saint Paul
+275	Edinburg	48 579	77 100	 	87 536	4.32	26.30°N	98.16°W	Texas	 	MacAllen-Reynosa
+276	Edmond	68 315	81 405	 	85 477	1.64	35.67°N	97.41°W	Oklahoma	 	Oklahoma City
+277	El Cajon	94 934	99 478	 	100 450	0.32	32.80°N	116.96°W	California	 	San Diego-Tijuana
+278	El Centro	38 023	42 598	 	43 946	1.04	32.79°N	115.56°W	California	 	Mexicali
+279	El Dorado Hills	18 016	42 108	 	49 479	5.52	38.69°N	121.08°W	California	 	Sacramento
+280	Elgin	94 831	108 188	 	112 084	1.19	42.04°N	88.29°W	Illinois	 	Chicago
+281	Elizabeth	120 568	124 969	 	126 022	0.28	40.67°N	74.19°W	New Jersey	 	New York
+282	Elk Grove	81 103	153 015	 	177 816	5.13	38.40°N	121.37°W	California	 	Sacramento
+283	Elkhart	52 569	50 949	 	50 663	-0.19	41.69°N	85.97°W	Indiana	 	 
+284	Ellicott City	56 397	65 834	 	68 985	1.57	39.27°N	76.83°W	Maryland	 	Washington-Baltimore
+285	Elmhurst	42 821	44 121	 	44 224	0.08	41.90°N	87.94°W	Illinois	 	Chicago
+286	El Monte	115 965	113 475	 	112 656	-0.24	34.07°N	118.03°W	California	 	Los Angeles
+287	El Paso	563 885	649 121	 	671 314	1.13	31.85°N	106.44°W	Texas	 	Juárez-El Paso
+288	Elyria	56 068	54 533	 	53 811	-0.44	41.38°N	82.11°W	Ohio	 	Cleveland
+289	Encinitas	57 958	59 518	 	59 750	0.13	33.05°N	117.26°W	California	 	San Diego-Tijuana
+290	Enid	47 045	49 379	 	49 781	0.27	36.41°N	97.87°W	Oklahoma	 	 
+291	Enterprise	14 676	108 481	 	160 213	13.88	36.03°N	115.24°W	Nevada	 	Las Vegas
+292	Erie	103 688	101 786	 	100 588	-0.39	42.13°N	80.09°W	Pennsylvania	 	 
+293	Escondido	133 903	143 911	 	147 094	0.73	33.14°N	117.07°W	California	 	San Diego-Tijuana
+294	Euclid	52 717	48 920	 	47 624	-0.89	41.59°N	81.52°W	Ohio	 	Cleveland
+295	Eugene	138 800	156 185	 	160 738	0.96	44.05°N	123.11°W	Oregon	 	 
+296	Euless	45 957	51 277	 	52 783	0.97	32.85°N	97.08°W	Texas	 	Dallas
+297	Evanston	74 239	74 486	 	74 057	-0.19	42.05°N	87.69°W	Illinois	 	Chicago
+298	Evansville	121 648	117 429	 	115 942	-0.42	37.98°N	87.54°W	Indiana	 	 
+299	Everett	95 972	103 019	 	105 915	0.93	47.96°N	122.20°W	Washington	 	Seattle
+300	Everett	38 037	41 667	 	42 535	0.69	42.41°N	71.05°W	Massachusetts	 	Boston
+301	Fairfield	96 183	105 321	 	108 107	0.87	38.25°N	122.04°W	California	 	San Francisco
+302	Fairfield	42 097	42 510	 	42 479	-0.02	39.33°N	84.54°W	Ohio	 	Cincinnati
+303	Fall River	91 938	88 857	 	87 764	-0.41	41.71°N	71.11°W	Massachusetts	 	Boston
+304	Fargo	90 651	105 549	 	109 437	1.21	46.88°N	96.82°W	North Dakota	 	 
+305	Farmington	38 364	45 877	 	47 914	1.46	36.75°N	108.19°W	New Mexico	 	 
+306	Farmington Hills	82 111	79 740	 	79 097	-0.27	42.49°N	83.38°W	Michigan	 	Detroit-Windsor
+307	Fayetteville	175 161	200 564	 	209 129	1.40	35.07°N	78.90°W	North Carolina	 	 
+308	Fayetteville	59 133	73 580	 	78 138	2.02	36.07°N	94.16°W	Arkansas	 	 
+309	Federal Way	85 334	89 306	 	90 461	0.43	47.31°N	122.34°W	Washington	 	Seattle
+310	Findlay	39 221	41 202	 	41 611	0.33	41.04°N	83.64°W	Ohio	 	 
+311	Fishers	38 208	76 794	 	94 687	7.23	39.95°N	86.02°W	Indiana	 	Indianapolis
+312	Flagstaff	52 904	65 870	 	69 682	1.89	35.19°N	111.62°W	Arizona	 	 
+313	Flint	124 943	102 434	 	96 381	-2.01	43.02°N	83.69°W	Michigan	 	Detroit-Windsor
+314	Florence-Graham	60 197	63 387	 	63 959	0.30	33.97°N	118.24°W	California	 	Los Angeles
+315	Florin	27 653	47 513	 	54 217	4.50	38.49°N	121.40°W	California	 	Sacramento
+316	Florissant	53 967	52 158	 	51 508	-0.42	38.80°N	90.32°W	Missouri	 	Saint Louis
+317	Flower Mound	50 802	64 669	 	71 796	3.55	33.03°N	97.09°W	Texas	 	Dallas
+318	Folsom	51 884	72 203	 	79 727	3.36	38.68°N	121.15°W	California	 	Sacramento
+319	Fond du Lac	42 235	43 021	 	43 224	0.16	43.77°N	88.45°W	Wisconsin	 	 
+320	Fontana	141 844	196 069	 	215 451	3.19	34.10°N	117.46°W	California	 	Los Angeles
+321	Fort Collins	119 267	143 986	 	151 817	1.78	40.56°N	105.07°W	Colorado	 	Denver
+322	Fort Lauderdale	170 691	165 521	 	164 328	-0.24	26.14°N	80.14°W	Florida	 	Miami
+323	Fort Myers	52 425	62 298	 	65 105	1.48	26.63°N	81.85°W	Florida	 	 
+324	Fort Pierce	38 956	41 590	 	43 861	1.79	27.44°N	80.32°W	Florida	 	 
+325	Fort Smith	80 405	86 209	 	87 325	0.43	35.37°N	94.38°W	Arkansas	 	 
+326	Fort Wayne	251 658	253 691	 	256 056	0.31	41.07°N	85.14°W	Indiana	 	Fort Wayne
+327	Fort Worth	541 370	741 206	 	800 268	2.59	32.75°N	97.34°W	Texas	 	Dallas
+328	Fountainebleau	 	59 764	 	62 436				Florida	 	 
+329	Fountain Valley	54 978	55 313	 	55 183	-0.08	33.71°N	117.95°W	California	 	Los Angeles
+330	Framingham	66 910	68 318	 	68 464	0.07	42.31°N	71.44°W	Massachusetts	 	Boston
+331	Franklin	45 441	62 487	 	69 515	3.62	35.93°N	86.84°W	Tennessee	 	Nashville
+332	Frederick	52 816	65 239	 	69 198	1.98	39.43°N	77.42°W	Maryland	 	Washington-Baltimore
+333	Freeport	43 783	42 860	 	42 620	-0.19	40.65°N	73.58°W	New York	 	New York
+334	Fremont	203 418	214 089	 	217 165	0.48	37.53°N	122.00°W	California	 	San Francisco
+335	Fresno	429 582	494 665	 	513 434	1.25	36.78°N	119.79°W	California	 	Fresno
+336	Frisco	33 695	116 989	 	158 681	10.69	33.14°N	96.81°W	Texas	 	Dallas
+337	Fullerton	126 280	135 161	 	137 330	0.53	33.88°N	117.93°W	California	 	Los Angeles
+338	Gainesville	111 853	124 354	 	128 394	1.07	29.67°N	82.34°W	Florida	 	 
+339	Gaithersburg	52 451	59 933	 	62 403	1.36	39.14°N	77.22°W	Maryland	 	Washington-Baltimore
+340	Galveston	57 714	47 743	 	46 449	-0.91	29.30°N	94.81°W	Texas	 	Houston
+341	Gardena	57 746	58 829	 	59 127	0.17	33.89°N	118.30°W	California	 	Los Angeles
+342	Garden Grove	165 219	170 883	 	172 506	0.32	33.78°N	117.96°W	California	 	Los Angeles
+343	Garland	215 794	226 876	 	229 713	0.42	32.91°N	96.63°W	Texas	 	Dallas
+344	Gary	102 746	80 294	 	74 559	-2.44	41.60°N	87.34°W	Indiana	 	Chicago
+345	Gastonia	67 751	71 741	 	72 972	0.57	35.25°N	81.17°W	North Carolina	 	Charlotte
+346	Georgetown	29 189	47 400	 	54 668	4.87	30.65°N	97.69°W	Texas	 	Austin
+347	Germantown	55 419	86 395	 	96 872	3.89	39.18°N	77.26°W	Maryland	 	Washington-Baltimore
+348	Gilbert	114 701	208 453	 	250 359	6.30	33.33°N	111.76°W	Arizona	 	Phoenix
+349	Gilroy	41 490	48 821	 	51 137	1.56	37.01°N	121.58°W	California	 	San Francisco
+350	Glen Burnie	38 922	67 639	 	76 887	4.36	39.17°N	76.60°W	Maryland	 	Washington-Baltimore
+351	Glendale	219 711	226 721	 	231 111	0.64	33.58°N	112.20°W	Arizona	 	Phoenix
+352	Glendale	194 973	191 719	 	190 492	-0.21	34.18°N	118.25°W	California	 	Los Angeles
+353	Glendora	49 415	50 073	 	50 016	-0.04	34.15°N	117.84°W	California	 	Los Angeles
+354	Glenview	43 081	44 692	 	45 056	0.27	42.08°N	87.82°W	Illinois	 	Chicago
+355	Goodyear	18 829	65 275	 	84 537	9.00	33.35°N	112.41°W	Arizona	 	Phoenix
+356	Grand Forks	49 366	52 838	 	53 245	0.26	47.92°N	97.07°W	North Dakota	 	 
+357	Grand Island	43 395	48 520	 	49 739	0.83	40.92°N	98.37°W	Nebraska	 	 
+358	Grand Junction	45 336	58 566	 	62 546	2.22	39.09°N	108.55°W	Colorado	 	 
+359	Grand Prairie	127 182	175 396	 	190 025	2.71	32.69°N	97.02°W	Texas	 	Dallas
+360	Grand Rapids	197 800	188 040	 	184 994	-0.54	42.96°N	85.66°W	Michigan	 	Grand Rapids
+361	Grapevine	42 059	46 334	 	47 915	1.12	32.93°N	97.07°W	Texas	 	Dallas
+362	Great Falls	57 041	58 505	 	58 604	0.06	47.50°N	111.29°W	Montana	 	 
+363	Greeley	78 107	92 889	 	99 796	2.42	40.42°N	104.74°W	Colorado	 	Denver
+364	Green Bay	102 787	104 057	 	104 130	0.02	44.52°N	87.99°W	Wisconsin	 	 
+365	Greensboro	228 314	269 666	 	281 590	1.45	36.08°N	79.83°W	North Carolina	 	Greensboro
+366	Greenville	62 096	84 554	 	91 723	2.75	35.60°N	77.37°W	North Carolina	 	 
+367	Greenville	56 697	58 409	 	58 428	0.01	34.84°N	82.37°W	South Carolina	 	Greenville
+368	Greenwood	36 445	49 791	 	54 081	2.79	39.62°N	86.11°W	Indiana	 	Indianapolis
+369	Gresham	90 411	105 594	 	110 543	1.54	45.50°N	122.44°W	Oregon	 	Portland
+370	Gulfport	71 125	67 793	 	66 884	-0.45	30.39°N	89.07°W	Mississippi	 	 
+371	Hacienda Heights	53 122	54 038	 	53 985	-0.03	34.00°N	117.97°W	California	 	Los Angeles
+372	Hackensack	42 677	43 010	 	43 172	0.13	40.89°N	74.05°W	New Jersey	 	New York
+373	Haltom City	39 018	42 409	 	43 353	0.74	32.82°N	97.27°W	Texas	 	Dallas
+374	Hamilton	60 703	62 477	 	62 520	0.02	39.39°N	84.56°W	Ohio	 	Cincinnati
+375	Hammond	83 048	80 830	 	79 774	-0.44	41.62°N	87.49°W	Indiana	 	Chicago
+376	Hampton	146 437	137 436	 	134 269	-0.77	37.05°N	76.29°W	Virginia	 	Norfolk-Virginia Beach
+377	Hanford	41 796	53 967	 	57 836	2.33	36.33°N	119.65°W	California	 	 
+378	Harlingen	58 766	64 849	 	66 535	0.86	26.20°N	97.69°W	Texas	 	 
+379	Harrisburg	48 950	49 528	 	49 272	-0.17	40.28°N	76.88°W	Pennsylvania	 	Harrisburg
+380	Harrisonburg	40 453	48 914	 	51 280	1.59	38.44°N	78.87°W	Virginia	 	 
+381	Hartford	124 121	124 775	 	123 777	-0.27	41.77°N	72.68°W	Connecticut	 	Hartford
+382	Hattiesburg	45 781	45 989	 	45 835	-0.11	31.31°N	89.31°W	Mississippi	 	 
+383	Haverhill	58 969	60 879	 	61 460	0.32	42.78°N	71.09°W	Massachusetts	 	Boston
+384	Hawthorne	84 105	84 293	 	84 045	-0.10	33.91°N	118.35°W	California	 	Los Angeles
+385	Hayward	140 031	144 186	 	145 914	0.40	37.63°N	122.10°W	California	 	San Francisco
+386	Hemet	58 907	78 657	 	85 885	2.97	33.73°N	117.00°W	California	 	Los Angeles
+387	Hempstead	53 127	53 891	 	54 003	0.07	40.70°N	73.62°W	New York	 	New York
+388	Henderson	175 273	257 729	 	294 211	4.51	36.03°N	115.00°W	Nevada	 	Las Vegas
+389	Hendersonville	40 999	51 372	 	54 566	2.03	36.29°N	86.60°W	Tennessee	 	Nashville
+390	Hesperia	62 723	90 173	 	98 971	3.15	34.42°N	117.30°W	California	 	Los Angeles
+391	Hialeah	226 440	224 669	 	224 823	0.02	25.86°N	80.30°W	Florida	 	Miami
+392	Hicksville	41 260	41 547	 	41 480	-0.05	40.76°N	73.53°W	New York	 	New York
+393	Highland	44 681	53 104	 	55 777	1.65	34.12°N	117.19°W	California	 	Los Angeles
+394	Highlands Ranch	70 931	96 713	 	114 246	5.71	39.55°N	104.97°W	Colorado	 	Denver
+395	High Point	86 211	104 371	 	109 718	1.68	35.98°N	80.00°W	North Carolina	 	Greensboro
+396	Hillsboro	70 311	91 611	 	99 891	2.93	45.53°N	122.94°W	Oregon	 	Portland
+397	Hilo	40 759	43 263	 	43 877	0.47	19.70°N	155.09°W	Hawaii	 	 
+398	Hoboken	38 577	50 005	 	53 329	2.17	40.74°N	74.03°W	New Jersey	 	New York
+399	Hoffman Estates	49 666	51 895	 	52 219	0.21	42.06°N	88.14°W	Illinois	 	Chicago
+400	Hollywood	139 441	140 768	 	141 155	0.09	26.03°N	80.16°W	Florida	 	Miami
+401	Homestead	31 909	60 512	 	70 762	5.35	25.46°N	80.45°W	Florida	 	Miami
+402	Honolulu	371 657	337 256	 	326 508	-1.07	21.32°N	157.80°W	Hawaii	Urban Honolulu	Honolulu
+403	Hoover	63 250	81 619	 	87 765	2.45	33.38°N	86.82°W	Alabama	 	Birmingham
+404	Houston	1 974 152	2 099 451	 	2 125 945	0.42	29.77°N	95.39°W	Texas	 	Houston
+405	Huntersville	25 508	46 773	 	55 359	5.78	35.41°N	80.86°W	North Carolina	 	 
+406	Huntington	51 889	49 138	 	48 036	-0.75	38.41°N	82.43°W	West Virginia	 	 
+407	Huntington Beach	189 626	189 992	 	189 504	-0.09	33.69°N	118.01°W	California	 	Los Angeles
+408	Huntington Park	61 348	58 114	 	57 249	-0.50	33.98°N	118.22°W	California	 	Los Angeles
+409	Huntsville	159 912	180 105	 	185 826	1.05	34.71°N	86.63°W	Alabama	 	 
+410	Hutchinson	41 904	42 080	 	41 997	-0.07	38.07°N	97.91°W	Kansas	 	 
+411	Idaho Falls	51 053	56 813	 	59 033	1.29	43.49°N	112.03°W	Idaho	 	 
+412	Independence	113 271	116 830	 	117 062	0.07	39.09°N	94.35°W	Missouri	 	Kansas City
+413	Indianapolis	781 867	829 718	 	838 588	0.36	39.78°N	86.15°W	Indiana	 	Indianapolis
+414	Indian Trail	13 552	33 518	 	44 000	9.49	35.07°N	80.65°W	North Carolina	 	Charlotte
+415	Indio	50 011	76 036	 	85 003	3.79	33.72°N	116.23°W	California	 	Los Angeles
+416	Inglewood	112 580	109 673	 	108 480	-0.36	33.96°N	118.34°W	California	 	Los Angeles
+417	Iowa City	62 517	67 862	 	68 754	0.44	41.66°N	91.54°W	Iowa	 	 
+418	Irondequoit	52 354	51 692	 	51 368	-0.21	43.21°N	77.57°W	New York	 	Rochester
+419	Irvine	144 145	212 375	 	234 485	3.36	33.66°N	117.80°W	California	 	Los Angeles
+420	Irving	191 615	216 290	 	223 097	1.04	32.86°N	96.97°W	Texas	 	Dallas
+421	Jackson	184 260	173 514	 	169 379	-0.80	32.32°N	90.21°W	Mississippi	 	 
+422	Jackson	59 836	65 211	 	66 754	0.78	35.63°N	88.83°W	Tennessee	 	 
+423	Jacksonville	735 606	821 784	 	843 879	0.89	30.33°N	81.66°W	Florida	 	Jacksonville
+424	Jacksonville	66 744	70 145	 	70 360	0.10	34.76°N	77.40°W	North Carolina	 	 
+425	Janesville	60 288	63 575	 	64 507	0.49	42.68°N	89.02°W	Wisconsin	 	 
+426	Jefferson City	40 358	43 079	 	43 747	0.51	38.57°N	92.19°W	Missouri	 	 
+427	Jeffersonville	27 825	44 953	 	50 198	3.75	38.30°N	85.73°W	Indiana	 	Louisville
+428	Jersey City	240 055	247 597	 	248 914	0.18	40.71°N	74.06°W	New Jersey	 	New York
+429	Johns Creek	61 267	76 728	 	81 972	2.23			Georgia	 	 
+430	Johnson City	55 839	63 152	 	65 047	0.99	36.33°N	82.37°W	Tennessee	 	Johnson City
+431	Joliet	107 127	147 433	 	160 777	2.93	41.53°N	88.12°W	Illinois	 	Chicago
+432	Jonesboro	55 515	67 263	 	70 408	1.53	35.82°N	90.69°W	Arkansas	 	 
+433	Joplin	45 548	50 150	 	51 255	0.73	37.08°N	94.50°W	Missouri	 	 
+434	Jupiter	39 424	55 156	 	60 716	3.25	26.92°N	80.10°W	Florida	 	Miami
+435	Kalamazoo	77 145	74 262	 	73 009	-0.57	42.27°N	85.59°W	Michigan	 	 
+436	Kannapolis	37 003	42 625	 	44 244	1.25	35.49°N	80.62°W	North Carolina	 	 
+437	Kansas City	441 543	459 787	 	463 005	0.23	39.12°N	94.55°W	Missouri	 	Kansas City
+438	Kansas City	146 866	145 786	 	144 660	-0.26	39.12°N	94.73°W	Kansas	 	Kansas City
+439	Keller	27 388	39 627	 	44 386	3.85	32.93°N	97.23°W	Texas	 	Dallas
+440	Kendale Lakes	56 901	56 148	 	56 062	-0.05	25.71°N	80.41°W	Florida	 	Miami
+441	Kendall	75 226	75 371	 	75 644	0.12	25.67°N	80.34°W	Florida	 	Miami
+442	Kenner	70 517	66 702	 	64 499	-1.11	29.99°N	90.25°W	Louisiana	 	New Orleans
+443	Kennewick	56 300	73 917	 	79 634	2.51	46.20°N	119.17°W	Washington	 	 
+444	Kenosha	90 591	99 218	 	101 463	0.75	42.58°N	87.85°W	Wisconsin	 	Chicago
+445	Kent	80 504	92 411	 	98 295	2.08	47.39°N	122.24°W	Washington	 	Seattle
+446	Kentwood	45 259	48 707	 	49 724	0.69	42.88°N	85.59°W	Michigan	 	Grand Rapids
+447	Kettering	57 755	56 163	 	55 316	-0.51	39.70°N	84.15°W	Ohio	 	Dayton
+448	Killeen	87 505	127 921	 	141 048	3.31	31.10°N	97.72°W	Texas	 	 
+449	Kingsport	45 222	48 205	 	49 133	0.64	36.53°N	82.56°W	Tennessee	 	 
+450	Kirkland	45 054	48 787	 	49 808	0.69	47.68°N	122.19°W	Washington	 	Seattle
+451	Kissimmee	48 758	59 682	 	63 619	2.15	28.30°N	81.41°W	Florida	 	Orlando
+452	Knoxville	175 368	178 874	 	178 900	0.00	35.97°N	83.95°W	Tennessee	 	Knoxville
+453	Kokomo	46 917	45 468	 	44 936	-0.39	40.48°N	86.13°W	Indiana	 	 
+454	Lacey	31 250	42 393	 	46 441	3.09	47.03°N	122.81°W	Washington	 	 
+455	La Crosse	51 965	51 320	 	50 911	-0.27	43.83°N	91.23°W	Wisconsin	 	 
+456	Lafayette	111 987	120 623	 	121 208	0.16	30.22°N	92.03°W	Louisiana	 	 
+457	Lafayette	61 243	67 140	 	69 240	1.03	40.41°N	86.87°W	Indiana	 	 
+458	Laguna Niguel	62 749	62 979	 	63 668	0.36	33.53°N	117.70°W	California	 	Los Angeles
+459	La Habra	59 366	60 239	 	60 540	0.17	33.93°N	117.95°W	California	 	Los Angeles
+460	Lake Charles	72 107	71 993	 	70 662	-0.62	30.21°N	93.20°W	Louisiana	 	 
+461	Lake Elsinore	28 929	51 821	 	60 659	5.39	33.67°N	117.32°W	California	 	Los Angeles
+462	Lake Forest	76 021	77 264	 	77 488	0.10	33.63°N	117.70°W	California	 	Los Angeles
+463	Lake Havasu City	41 938	52 527	 	56 699	2.58	34.50°N	114.31°W	Arizona	 	 
+464	Lakeland	84 609	97 422	 	101 143	1.26	28.04°N	81.96°W	Florida	 	Lakeland
+465	Lake Ridge	30 404	41 058	 	44 406	2.65	38.69°N	77.30°W	Virginia	 	Washington-Baltimore
+466	Lakeville	43 128	55 954	 	60 628	2.71	44.68°N	93.24°W	Minnesota	 	Minneapolis-Saint Paul
+467	Lakewood	144 366	142 980	 	142 525	-0.11	39.70°N	105.11°W	Colorado	 	Denver
+468	Lakewood	79 333	80 048	 	80 021	-0.01	33.85°N	118.12°W	California	 	Los Angeles
+469	Lakewood	36 065	53 805	 	59 811	3.59	40.09°N	74.21°W	New Jersey	 	New York
+470	Lakewood	58 397	58 163	 	57 917	-0.14	47.16°N	122.53°W	Washington	 	Seattle
+471	Lakewood	56 647	52 131	 	50 620	-0.98	41.48°N	81.80°W	Ohio	 	Cleveland
+472	La Mesa	54 751	57 065	 	57 466	0.23	32.77°N	117.02°W	California	 	San Diego-Tijuana
+473	La Mirada	46 783	48 527	 	48 982	0.31	33.90°N	118.01°W	California	 	Los Angeles
+474	Lancaster	118 718	156 633	 	167 942	2.35	34.69°N	118.18°W	California	 	Los Angeles
+475	Lancaster	56 356	59 322	 	59 820	0.28	40.04°N	76.30°W	Pennsylvania	 	 
+476	Lansing	119 371	114 297	 	112 100	-0.64	42.71°N	84.55°W	Michigan	 	 
+477	La Quinta	23 778	37 467	 	43 060	4.75	33.67°N	116.29°W	California	 	Los Angeles
+478	Laredo	177 945	236 091	 	253 808	2.44	27.53°N	99.49°W	Texas	 	Nuevo Laredo
+479	Largo	74 228	77 648	 	78 445	0.34	27.91°N	82.78°W	Florida	 	Tampa
+480	Las Cruces	74 365	97 618	 	104 428	2.27	32.34°N	106.76°W	New Mexico	 	 
+481	Las Vegas	480 275	583 756	 	625 177	2.31	36.21°N	115.22°W	Nevada	 	Las Vegas
+482	Lauderhill	66 864	66 887	 	67 391	0.25	26.17°N	80.23°W	Florida	 	Miami
+483	Lawrence	80 206	87 643	 	89 754	0.80	38.96°N	95.26°W	Kansas	 	 
+484	Lawrence	72 043	76 377	 	77 235	0.37	42.70°N	71.16°W	Massachusetts	 	Boston
+485	Lawrence	38 915	46 001	 	48 386	1.70	39.87°N	85.99°W	Indiana	 	Indianapolis
+486	Lawton	92 844	96 867	 	97 550	0.23	34.60°N	98.42°W	Oklahoma	 	 
+487	Layton	58 630	67 311	 	70 388	1.50	41.08°N	111.95°W	Utah	 	Salt Lake City
+488	League City	45 410	83 560	 	96 769	5.01	29.49°N	95.11°W	Texas	 	Houston
+489	Leesburg	28 310	42 616	 	46 594	3.02	39.10°N	77.56°W	Virginia	 	Washington-Baltimore
+490	Lee's Summit	70 718	91 364	 	98 201	2.43	38.92°N	94.38°W	Missouri	 	Kansas City
+491	Lehi	19 381	47 407	 	59 747	8.02	40.40°N	111.85°W	Utah	 	Salt Lake City
+492	Lehigh Acres	33 430	86 784	 	110 299	8.32	26.60°N	81.63°W	Florida	 	 
+493	Lenexa	40 236	48 190	 	50 442	1.53	38.96°N	94.79°W	Kansas	 	Kansas City
+494	Levittown	53 966	52 983	 	52 427	-0.35	40.15°N	74.85°W	Pennsylvania	 	Philadelphia
+495	Levittown	53 067	51 881	 	51 405	-0.31	40.72°N	73.51°W	New York	 	New York
+496	Lewisville	77 840	95 290	 	101 727	2.20	33.04°N	96.98°W	Texas	 	Dallas
+497	Lexington	260 512	295 803	 	305 051	1.03	38.04°N	84.46°W	Kentucky	Lexington-Fayette	 
+498	Lincoln	226 675	258 379	 	266 783	1.07	40.82°N	96.69°W	Nebraska	 	 
+499	Lincoln	11 280	42 819	 	56 124	9.44	38.89°N	121.30°W	California	 	 
+500	Linton Hall	8 620	35 725	 	46 276	9.01	38.76°N	77.58°W	Virginia	 	 
+501	Little Rock	183 320	193 524	 	194 865	0.23	34.72°N	92.35°W	Arkansas	 	Little Rock
+502	Littleton	40 433	41 737	 	42 181	0.35	39.59°N	105.01°W	Colorado	 	Denver
+503	Livermore	73 408	80 968	 	83 418	1.00	37.69°N	121.76°W	California	 	San Francisco
+504	Livonia	100 545	96 942	 	95 415	-0.53	42.40°N	83.37°W	Michigan	 	Detroit-Windsor
+505	Lodi	57 202	62 134	 	63 403	0.68	38.12°N	121.29°W	California	 	Stockton
+506	Logan	42 885	48 174	 	49 909	1.19	41.74°N	111.84°W	Utah	 	 
+507	Lombard	42 709	43 165	 	43 178	0.01	41.87°N	88.01°W	Illinois	 	Chicago
+508	Lompoc	41 103	42 434	 	42 722	0.23	34.66°N	120.47°W	California	 	 
+509	Long Beach	461 548	462 257	 	461 186	-0.08	33.79°N	118.16°W	California	 	Los Angeles
+510	Longmont	71 227	86 270	 	90 851	1.74	40.17°N	105.11°W	Colorado	 	Denver
+511	Longview	73 373	80 455	 	81 803	0.56	32.52°N	94.76°W	Texas	 	 
+512	Lorain	68 656	64 097	 	62 515	-0.83	41.44°N	82.18°W	Ohio	 	Cleveland
+513	Los Angeles	3 694 644	3 792 621	 	3 803 368	0.09	34.11°N	118.41°W	California	 	Los Angeles
+514	Louisville	807 534	741 096	 	751 331	0.46	38.22°N	85.74°W	Kentucky	Louisville/Jefferson County	 
+515	Loveland	51 303	66 859	 	71 890	2.45	40.42°N	105.07°W	Colorado	 	Denver
+516	Lowell	105 167	106 519	 	106 480	-0.01	42.64°N	71.32°W	Massachusetts	 	Boston
+517	Lubbock	199 714	229 573	 	236 654	1.02	33.58°N	101.88°W	Texas	 	 
+518	Lynchburg	65 269	75 568	 	78 278	1.18	37.40°N	79.19°W	Virginia	 	 
+519	Lynn	89 050	90 329	 	90 627	0.11	42.47°N	70.96°W	Massachusetts	 	Boston
+520	Lynwood	69 845	69 772	 	69 712	-0.03	33.92°N	118.20°W	California	 	Los Angeles
+521	MacAllen	106 473	129 877	 	136 862	1.76	26.22°N	98.24°W	Texas	McAllen	MacAllen-Reynosa
+522	MacKinney	54 427	131 117	 	166 940	8.38	33.20°N	96.65°W	Texas	McKinney	Dallas
+523	MacLean	38 929	48 115	 	50 385	1.55	38.94°N	77.18°W	Virginia	McLean	Washington-Baltimore
+524	Macon	97 456	91 351	 	89 184	-0.80	32.84°N	83.66°W	Georgia	 	 
+525	Madera	43 531	61 416	 	67 388	3.14	36.97°N	120.08°W	California	 	 
+526	Madison	209 425	233 209	 	239 105	0.84	43.08°N	89.39°W	Wisconsin	 	 
+527	Madison	29 320	42 938	 	48 140	3.89	34.70°N	86.75°W	Alabama	 	 
+528	Malden	56 345	59 450	 	60 092	0.36	42.43°N	71.06°W	Massachusetts	 	Boston
+529	Manchester	107 008	109 565	 	110 095	0.16	42.98°N	71.44°W	New Hampshire	 	Boston
+530	Manhattan	45 703	52 281	 	54 124	1.16	39.19°N	96.59°W	Kansas	 	 
+531	Mansfield	28 033	56 368	 	67 984	6.44	32.57°N	97.12°W	Texas	 	Dallas
+532	Mansfield	51 796	47 821	 	46 654	-0.82	40.76°N	82.53°W	Ohio	 	 
+533	Manteca	49 557	67 096	 	72 523	2.63	37.80°N	121.22°W	California	 	Stockton
+534	Maple Grove	50 365	61 567	 	64 959	1.80	45.11°N	93.46°W	Minnesota	 	Minneapolis-Saint Paul
+535	Marana	13 883	34 961	 	42 072	6.37	32.39°N	111.13°W	Arizona	 	 
+536	Margate	53 909	53 284	 	53 370	0.05	26.25°N	80.21°W	Florida	 	Miami
+537	Maricopa	1 622	43 482	 	65 493	14.63	33.06°N	112.05°W	Arizona	 	 
+538	Marietta	63 022	56 579	 	55 549	-0.61	33.95°N	84.54°W	Georgia	 	Atlanta
+539	Marysville	29 110	60 020	 	72 268	6.39	48.06°N	122.15°W	Washington	 	Seattle
+540	Medford	66 062	74 907	 	78 043	1.38	42.34°N	122.85°W	Oregon	 	 
+541	Medford	55 638	56 173	 	55 995	-0.11	42.42°N	71.11°W	Massachusetts	 	Boston
+542	Melbourne	72 725	76 068	 	77 186	0.49	28.11°N	80.64°W	Florida	 	 
+543	Memphis	690 555	646 889	 	633 946	-0.67	35.11°N	90.01°W	Tennessee	 	Memphis
+544	Menifee	 	77 519	 	79 392				California	 	 
+545	Mentor	50 284	47 159	 	46 264	-0.64	41.69°N	81.33°W	Ohio	 	Cleveland
+546	Merced	64 449	78 958	 	83 054	1.70	37.30°N	120.48°W	California	 	 
+547	Meriden	58 244	60 868	 	61 219	0.19	41.54°N	72.80°W	Connecticut	 	Hartford
+548	Meridian	36 296	75 092	 	90 248	6.32	43.61°N	116.40°W	Idaho	 	Boise City
+549	Mesa	398 129	439 041	 	453 870	1.11	33.42°N	111.74°W	Arizona	 	Phoenix
+550	Mesquite	124 601	139 824	 	143 991	0.98	32.77°N	96.60°W	Texas	 	Dallas
+551	Metairie	146 136	138 481	 	134 178	-1.05	30.00°N	90.18°W	Louisiana	 	New Orleans
+552	Methuen	43 789	 	 	44 662		42.73°N	71.19°W	Massachusetts	 	Boston
+553	Methuen Town	 	47 255	 	47 505				Massachusetts	 	 
+554	Miami	362 440	399 457	 	406 938	0.62	25.78°N	80.21°W	Florida	 	Miami
+555	Miami Beach	87 933	87 779	 	87 090	-0.26	25.81°N	80.14°W	Florida	 	Miami
+556	Miami Gardens	100 515	107 167	 	114 721	2.30	25.94°N	80.25°W	Florida	 	Miami
+557	Middletown	45 565	47 648	 	48 109	0.32	41.55°N	72.65°W	Connecticut	 	Hartford
+558	Middletown	51 597	48 694	 	47 964	-0.50	39.51°N	84.37°W	Ohio	 	Cincinnati
+559	Midland	95 519	111 147	 	115 345	1.24	32.03°N	102.10°W	Texas	 	 
+560	Midland	41 766	41 863	 	41 833	-0.02	43.62°N	84.23°W	Michigan	 	 
+561	Midwest City	54 293	54 371	 	54 220	-0.09	35.46°N	97.37°W	Oklahoma	 	Oklahoma City
+562	Milford	50 594	52 759	 	53 195	0.27	41.23°N	73.06°W	Connecticut	 	New York
+563	Millcreek	30 377	62 139	 	73 198	5.61	40.69°N	111.87°W	Utah	 	Salt Lake City
+564	Milpitas	62 701	66 790	 	68 114	0.66	37.43°N	121.89°W	California	 	San Francisco
+565	Milwaukee	596 988	594 833	 	589 764	-0.28	43.06°N	87.97°W	Wisconsin	 	Milwaukee
+566	Minneapolis	382 747	382 578	 	380 795	-0.16	44.96°N	93.27°W	Minnesota	 	Minneapolis-Saint Paul
+567	Minnetonka	51 102	49 734	 	49 235	-0.34	44.93°N	93.46°W	Minnesota	 	Minneapolis-Saint Paul
+568	Minot	36 648	40 888	 	41 742	0.69	48.23°N	101.30°W	North Dakota	 	 
+569	Miramar	72 739	122 041	 	140 674	4.85	25.98°N	80.33°W	Florida	 	Miami
+570	Mishawaka	46 652	48 252	 	48 545	0.20	41.67°N	86.17°W	Indiana	 	 
+571	Mission	45 510	77 058	 	88 748	4.82	26.21°N	98.32°W	Texas	 	MacAllen-Reynosa
+572	Mission Viejo	93 138	93 305	 	93 879	0.20	33.61°N	117.65°W	California	 	Los Angeles
+573	Missoula	57 399	66 788	 	69 690	1.43	46.87°N	114.01°W	Montana	 	 
+574	Missouri City	53 068	67 358	 	72 138	2.31	29.57°N	95.54°W	Texas	 	Houston
+575	Mobile	199 186	195 111	 	192 931	-0.37	30.68°N	88.09°W	Alabama	 	Mobile
+576	Modesto	188 734	201 165	 	204 358	0.53	37.66°N	120.99°W	California	 	Modesto
+577	Moline	44 025	43 483	 	43 134	-0.27	41.49°N	90.49°W	Illinois	 	Quad Cities
+578	Monroe	53 157	48 815	 	46 776	-1.41	32.51°N	92.08°W	Louisiana	 	 
+579	Montebello	62 150	62 500	 	62 340	-0.09	34.02°N	118.11°W	California	 	Los Angeles
+580	Monterey Park	60 055	60 269	 	59 947	-0.18	34.05°N	118.13°W	California	 	Los Angeles
+581	Montgomery	201 726	205 764	 	206 080	0.05	32.35°N	86.28°W	Alabama	 	 
+582	Moore	41 138	55 081	 	58 906	2.26	35.33°N	97.47°W	Oklahoma	 	Oklahoma City
+583	Moreno Valley	142 378	193 365	 	209 137	2.65	33.93°N	117.21°W	California	 	Los Angeles
+584	Mountain View	70 705	74 066	 	74 698	0.28	37.40°N	122.08°W	California	 	San Francisco
+585	Mount Pleasant	48 098	67 843	 	74 618	3.22	32.82°N	79.86°W	South Carolina	 	Charleston
+586	Mount Prospect	56 271	54 167	 	53 416	-0.46	42.07°N	87.94°W	Illinois	 	Chicago
+587	Mount Vernon	68 381	67 292	 	66 827	-0.23	40.91°N	73.83°W	New York	 	New York
+588	Muncie	68 156	70 085	 	70 000	-0.04	40.20°N	85.39°W	Indiana	 	 
+589	Murfreesboro	70 340	108 755	 	122 498	4.05	35.85°N	86.39°W	Tennessee	 	 
+590	Murray	45 527	46 746	 	46 829	0.06	40.65°N	111.89°W	Utah	 	Salt Lake City
+591	Murrieta	50 870	103 466	 	127 184	7.12	33.56°N	117.21°W	California	 	Los Angeles
+592	Nampa	53 846	81 557	 	92 017	4.10	43.58°N	116.56°W	Idaho	 	Boise City
+593	Napa	72 791	76 915	 	78 071	0.50	38.30°N	122.30°W	California	 	San Francisco
+594	Naperville	128 582	141 853	 	146 873	1.17	41.76°N	88.15°W	Illinois	 	Chicago
+595	Nashua	86 605	86 494	 	86 433	-0.02	42.75°N	71.49°W	New Hampshire	 	Boston
+596	Nashville	545 534	626 681	 	641 207	0.77	36.17°N	86.78°W	Tennessee	Nashville-Davidson	Nashville
+597	National City	54 263	58 582	 	59 413	0.47	32.67°N	117.10°W	California	 	San Diego-Tijuana
+598	Newark	272 533	277 140	 	276 889	-0.03	40.72°N	74.17°W	New Jersey	 	New York
+599	Newark	46 376	47 573	 	47 637	0.04	40.07°N	82.42°W	Ohio	 	Columbus
+600	Newark	42 471	42 573	 	42 601	0.02	37.52°N	122.03°W	California	 	San Francisco
+601	New Bedford	93 768	95 072	 	95 174	0.04	41.66°N	70.94°W	Massachusetts	 	Boston
+602	New Braunfels	38 019	57 740	 	64 275	3.64	29.70°N	98.12°W	Texas	 	 
+603	New Britain	71 538	73 206	 	73 371	0.08	41.68°N	72.79°W	Connecticut	 	Hartford
+604	New Brunswick	48 238	55 181	 	57 144	1.17	40.49°N	74.45°W	New Jersey	 	New York
+605	New Haven	123 777	129 779	 	130 960	0.30	41.31°N	72.92°W	Connecticut	 	New York
+606	New Orleans	 	343 829	347 421	344 705	-0.39	30.07°N	89.93°W	Louisiana	 	New Orleans
+607	Newport Beach	77 143	85 186	 	87 378	0.85	33.61°N	117.87°W	California	 	Los Angeles
+608	Newport News	180 697	180 719	 	179 862	-0.16	37.08°N	76.51°W	Virginia	 	Norfolk-Virginia Beach
+609	New Rochelle	72 182	77 062	 	78 286	0.53	40.92°N	73.78°W	New York	 	New York
+610	Newton	83 831	85 146	 	85 276	0.05	42.33°N	71.21°W	Massachusetts	 	Boston
+611	New York	8 008 654	8 175 133	 	8 200 053	0.10	40.67°N	73.94°W	New York	Nueva York	New York
+612	Niagara Falls	55 593	50 193	 	48 492	-1.14	43.09°N	79.02°W	New York	 	Buffalo-Saint Catharines
+613	Noblesville	29 389	51 969	 	60 641	5.28	40.06°N	86.03°W	Indiana	 	Indianapolis
+614	Norfolk	234 405	242 803	 	243 814	0.14	36.92°N	76.24°W	Virginia	 	Norfolk-Virginia Beach
+615	Normal	45 464	52 497	 	54 361	1.17	40.52°N	89.00°W	Illinois	 	 
+616	Norman	96 780	110 925	 	114 948	1.19	35.23°N	97.34°W	Oklahoma	 	Oklahoma City
+617	North Atlanta	38 579	40 456	 	41 172	0.59	33.86°N	84.33°W	Georgia	 	Atlanta
+618	North Attleborough	27 143	 	 	44 266		41.97°N	71.33°W	Massachusetts	 	Boston
+619	North Bethesda	38 610	43 828	 	45 527	1.28	39.04°N	77.12°W	Maryland	 	Washington-Baltimore
+620	North Charleston	81 435	97 471	 	101 880	1.49	32.91°N	80.04°W	South Carolina	 	Charleston
+621	North Highlands	44 187	42 694	 	42 254	-0.34	38.67°N	121.38°W	California	 	Sacramento
+622	North Las Vegas	115 531	216 961	 	261 180	6.38	36.27°N	115.14°W	Nevada	 	Las Vegas
+623	North Lauderdale	38 523	41 023	 	42 103	0.87	26.21°N	80.22°W	Florida	 	Miami
+624	North Little Rock	60 498	62 304	 	62 221	-0.04	34.79°N	92.26°W	Arkansas	 	Little Rock
+625	North Miami	59 874	58 786	 	58 677	-0.06	25.90°N	80.17°W	Florida	 	Miami
+626	North Miami Beach	40 786	41 523	 	41 745	0.18	25.93°N	80.17°W	Florida	 	Miami
+627	North Port	22 851	57 357	 	70 027	6.88	27.05°N	82.19°W	Florida	 	Sarasota-Bradenton
+628	North Richland Hills	55 632	63 343	 	65 540	1.14	32.86°N	97.22°W	Texas	 	Dallas
+629	Norwalk	104 323	105 549	 	105 698	0.05	33.91°N	118.08°W	California	 	Los Angeles
+630	Norwalk	82 951	85 603	 	86 114	0.20	41.09°N	73.42°W	Connecticut	 	New York
+631	Norwich	36 117	40 493	 	41 406	0.75	41.55°N	72.09°W	Connecticut	 	 
+632	Novato	47 631	51 904	 	52 725	0.52	38.09°N	122.56°W	California	 	San Francisco
+633	Novi	47 386	55 224	 	57 891	1.58	42.48°N	83.49°W	Michigan	 	Detroit-Windsor
+634	Oakland	399 485	390 724	 	387 757	-0.25	37.77°N	122.22°W	California	 	San Francisco
+635	Oakland Park	42 085	41 363	 	41 808	0.36	26.17°N	80.15°W	Florida	 	Miami
+636	Oak Lawn	55 245	56 690	 	56 827	0.08	41.72°N	87.75°W	Illinois	 	Chicago
+637	Oak Park	52 524	51 878	 	51 453	-0.27	41.89°N	87.79°W	Illinois	 	Chicago
+638	Ocala	46 167	56 315	 	59 072	1.61	29.19°N	82.13°W	Florida	 	 
+639	Oceanside	161 329	167 086	 	169 394	0.46	33.23°N	117.31°W	California	 	San Diego-Tijuana
+640	Odenton	20 534	37 132	 	43 428	5.36	39.06°N	76.70°W	Maryland	 	Washington-Baltimore
+641	Odessa	90 943	99 940	 	101 835	0.63	31.87°N	102.35°W	Texas	 	 
+642	O'Fallon	48 929	79 329	 	91 321	4.80	38.78°N	90.71°W	Missouri	 	Saint Louis
+643	Ogden	77 301	82 825	 	84 541	0.69	41.23°N	111.97°W	Utah	 	Salt Lake City
+644	Oklahoma City	506 131	579 999	 	598 333	1.04	35.47°N	97.51°W	Oklahoma	 	Oklahoma City
+645	Olathe	93 092	125 872	 	136 750	2.80	38.89°N	94.81°W	Kansas	 	Kansas City
+646	Olympia	42 785	46 478	 	47 756	0.91	47.04°N	122.89°W	Washington	 	 
+647	Omaha	399 957	408 958	 	409 486	0.04	41.26°N	96.01°W	Nebraska	 	Omaha
+648	Ontario	158 011	163 924	 	165 903	0.40	34.05°N	117.61°W	California	 	Los Angeles
+649	Orange	129 585	136 416	 	138 385	0.48	33.81°N	117.82°W	California	 	Los Angeles
+650	Orem	84 112	88 328	 	89 621	0.49	40.30°N	111.70°W	Utah	 	Salt Lake City
+651	Orlando	192 630	238 300	 	251 432	1.80	28.50°N	81.37°W	Florida	 	Orlando
+652	Orland Park	51 170	56 767	 	58 689	1.12	41.61°N	87.85°W	Illinois	 	Chicago
+653	Oro Valley	32 192	41 011	 	46 182	4.04	32.42°N	110.96°W	Arizona	 	Tucson
+654	Oshkosh	63 399	66 083	 	66 858	0.39	44.02°N	88.55°W	Wisconsin	 	 
+655	Overland Park	149 470	173 372	 	180 886	1.42	38.91°N	94.68°W	Kansas	 	Kansas City
+656	Owensboro	54 273	57 265	 	57 711	0.26	37.76°N	87.12°W	Kentucky	 	 
+657	Oxnard	170 642	197 899	 	205 707	1.30	34.20°N	119.21°W	California	 	Los Angeles
+658	Palatine	66 275	68 557	 	70 185	0.79	42.11°N	88.04°W	Illinois	 	Chicago
+659	Palm Bay	79 426	103 190	 	110 464	2.30	27.99°N	80.66°W	Florida	 	 
+660	Palm Beach Gardens	36 264	48 452	 	52 755	2.88	26.84°N	80.12°W	Florida	 	Miami
+661	Palm Coast	32 742	75 180	 	90 930	6.55	29.57°N	81.21°W	Florida	 	 
+662	Palmdale	116 848	152 750	 	165 418	2.69	34.61°N	118.09°W	California	 	Los Angeles
+663	Palm Desert	44 270	48 445	 	50 276	1.24	33.73°N	116.38°W	California	 	Los Angeles
+664	Palm Harbor	59 248	57 439	 	57 076	-0.21	28.09°N	82.76°W	Florida	 	Tampa
+665	Palm Springs	42 807	44 552	 	46 930	1.75	33.78°N	116.53°W	California	 	Los Angeles
+666	Palo Alto	58 596	64 403	 	65 713	0.67	37.40°N	122.14°W	California	 	San Francisco
+667	Paradise	186 070	223 167	 	237 316	2.07	36.08°N	115.13°W	Nevada	 	Las Vegas
+668	Paramount	55 230	54 098	 	53 858	-0.15	33.90°N	118.16°W	California	 	Los Angeles
+669	Parker	23 630	45 297	 	56 768	7.81	39.51°N	104.76°W	Colorado	 	Denver
+670	Parma	85 655	81 601	 	79 996	-0.66	41.38°N	81.73°W	Ohio	 	Cleveland
+671	Pasadena	141 674	149 043	 	151 043	0.45	29.66°N	95.15°W	Texas	 	Houston
+672	Pasadena	134 018	137 122	 	137 201	0.02	34.16°N	118.14°W	California	 	Los Angeles
+673	Pasco	33 852	59 781	 	69 439	5.12	46.25°N	119.13°W	Washington	 	 
+674	Passaic	67 858	69 781	 	70 431	0.31	40.86°N	74.13°W	New Jersey	 	New York
+675	Paterson	149 222	146 199	 	145 200	-0.23	40.91°N	74.16°W	New Jersey	 	New York
+676	Pawtucket	72 958	71 148	 	70 426	-0.34	41.87°N	71.37°W	Rhode Island	 	Boston
+677	Peabody	48 129	51 251	 	51 877	0.41	42.53°N	70.97°W	Massachusetts	 	Boston
+678	Pearland	45 543	91 252	 	108 320	5.88	29.56°N	95.28°W	Texas	 	Houston
+679	Pearl City	30 976	47 698	 	52 686	3.37	21.40°N	157.97°W	Hawaii	 	Honolulu
+680	Pembroke Pines	137 415	154 750	 	163 430	1.84	26.01°N	80.34°W	Florida	 	Miami
+681	Pensacola	56 170	51 923	 	50 572	-0.87	30.44°N	87.19°W	Florida	 	 
+682	Peoria	108 917	154 065	 	172 429	3.83	33.69°N	112.24°W	Arizona	 	Phoenix
+683	Peoria	113 109	115 007	 	114 744	-0.08	40.74°N	89.61°W	Illinois	 	 
+684	Perris	36 193	68 386	 	81 288	5.93	33.79°N	117.22°W	California	 	Los Angeles
+685	Perth Amboy	47 308	50 814	 	51 772	0.62	40.52°N	74.27°W	New Jersey	 	New York
+686	Petaluma	54 608	57 941	 	59 085	0.65	38.24°N	122.63°W	California	 	San Francisco
+687	Pflugerville	20 856	46 936	 	57 381	6.93	30.44°N	97.62°W	Texas	 	Austin
+688	Pharr	46 971	70 400	 	78 428	3.67	26.18°N	98.19°W	Texas	 	MacAllen-Reynosa
+689	Philadelphia	1 517 550	1 526 006	 	1 520 509	-0.12	40.01°N	75.13°W	Pennsylvania	 	Philadelphia
+690	Phoenix	1 322 025	1 445 632	 	1 485 715	0.92	33.54°N	112.07°W	Arizona	 	Phoenix
+691	Pico Rivera	63 428	62 942	 	62 651	-0.15	33.99°N	118.09°W	California	 	Los Angeles
+692	Pine Bluff	55 168	49 083	 	47 257	-1.26	34.21°N	92.02°W	Arkansas	 	 
+693	Pine Hills	41 764	60 076	 	65 825	3.09	28.58°N	81.46°W	Florida	 	Orlando
+694	Pinellas Park	47 158	49 079	 	49 439	0.24	27.86°N	82.71°W	Florida	 	Tampa
+695	Pittsburg	56 680	63 264	 	65 172	1.00	38.02°N	121.89°W	California	 	San Francisco
+696	Pittsburgh	334 563	305 704	 	296 083	-1.06	40.44°N	79.98°W	Pennsylvania	 	Pittsburgh
+697	Pittsfield	45 789	44 737	 	44 179	-0.42	42.45°N	73.26°W	Massachusetts	 	 
+698	Placentia	46 545	50 533	 	51 565	0.68	33.88°N	117.85°W	California	 	Los Angeles
+699	Plainfield	13 261	39 581	 	51 925	9.47	41.62°N	88.20°W	Illinois	 	Chicago
+700	Plainfield	47 829	49 808	 	50 150	0.23	40.62°N	74.42°W	New Jersey	 	New York
+701	Plano	222 383	259 841	 	272 463	1.59	33.05°N	96.75°W	Texas	 	Dallas
+702	Plantation	82 934	84 955	 	85 798	0.33	26.13°N	80.26°W	Florida	 	Miami
+703	Pleasanton	63 885	70 285	 	72 296	0.94	37.67°N	121.89°W	California	 	San Francisco
+704	Plymouth	65 901	70 576	 	72 125	0.73	45.02°N	93.46°W	Minnesota	 	Minneapolis-Saint Paul
+705	Pocatello	51 605	54 255	 	54 808	0.34	42.88°N	112.47°W	Idaho	 	 
+706	Poinciana	13 647	53 193	 	71 989	10.61	28.16°N	81.47°W	Florida	 	 
+707	Pomona	147 906	149 058	 	149 220	0.04	34.06°N	117.76°W	California	 	Los Angeles
+708	Pompano Beach	100 205	99 845	 	100 620	0.26	26.24°N	80.13°W	Florida	 	Miami
+709	Pontiac	67 561	59 515	 	57 286	-1.26	42.65°N	83.29°W	Michigan	 	Detroit-Windsor
+710	Portage	44 897	46 292	 	46 588	0.21	42.20°N	85.59°W	Michigan	 	 
+711	Port Arthur	57 755	53 818	 	52 478	-0.84	29.90°N	93.93°W	Texas	 	 
+712	Port Charlotte	46 451	54 392	 	56 491	1.27	26.99°N	82.11°W	Florida	 	 
+713	Porterville	45 664	54 165	 	57 283	1.88	36.06°N	119.03°W	California	 	 
+714	Portland	529 082	583 776	 	597 793	0.79	45.54°N	122.66°W	Oregon	 	Portland
+715	Portland	64 249	66 194	 	66 386	0.10	43.66°N	70.28°W	Maine	 	 
+716	Port Orange	46 208	56 048	 	59 115	1.79	29.11°N	81.01°W	Florida	 	Daytona Beach
+717	Port Saint Lucie	88 883	164 603	 	191 668	5.21	27.28°N	80.35°W	Florida	Port St. Lucie	 
+718	Portsmouth	100 562	95 535	 	93 654	-0.66	36.86°N	76.36°W	Virginia	 	Norfolk-Virginia Beach
+719	Potomac	44 822	44 965	 	44 785	-0.13	39.03°N	77.20°W	Maryland	 	Washington-Baltimore
+720	Poway	48 028	47 811	 	47 747	-0.04	32.99°N	117.02°W	California	 	San Diego-Tijuana
+721	Prescott	34 057	39 843	 	41 782	1.60	34.58°N	112.45°W	Arizona	 	 
+722	Prescott Valley	24 192	38 822	 	45 024	5.06	34.61°N	112.32°W	Arizona	 	 
+723	Providence	173 621	178 042	 	178 937	0.17	41.82°N	71.42°W	Rhode Island	 	Boston
+724	Provo	105 511	112 488	 	118 500	1.75	40.25°N	111.64°W	Utah	 	Salt Lake City
+725	Pueblo	102 139	106 595	 	109 673	0.95	38.27°N	104.62°W	Colorado	 	 
+726	Quincy	88 025	92 271	 	93 092	0.30	42.26°N	71.01°W	Massachusetts	 	Boston
+727	Racine	81 864	78 860	 	77 621	-0.53	42.73°N	87.81°W	Wisconsin	 	Milwaukee
+728	Raleigh	288 354	403 892	 	441 420	3.01	35.82°N	78.66°W	North Carolina	 	Raleigh
+729	Rancho Cordova	53 605	64 776	 	68 249	1.76	38.60°N	121.30°W	California	 	Sacramento
+730	Rancho Cucamonga	127 743	165 269	 	176 921	2.30	34.12°N	117.57°W	California	 	Los Angeles
+731	Rancho Palos Verdes	41 146	41 643	 	41 503	-0.11	33.76°N	118.36°W	California	 	Los Angeles
+732	Rancho Santa Margarita	47 214	47 853	 	50 075	1.52	33.64°N	117.60°W	California	 	Los Angeles
+733	Rapid City	59 652	67 956	 	69 936	0.96	44.08°N	103.23°W	South Dakota	 	 
+734	Reading	81 374	88 082	 	89 502	0.53	40.34°N	75.93°W	Pennsylvania	 	 
+735	Redding	81 042	89 861	 	92 422	0.94	40.57°N	122.36°W	California	 	 
+736	Redlands	63 702	68 747	 	69 914	0.56	34.06°N	117.17°W	California	 	Los Angeles
+737	Redmond	45 623	54 144	 	56 816	1.62	47.67°N	122.11°W	Washington	 	Seattle
+738	Redondo Beach	63 260	66 748	 	67 378	0.31	33.86°N	118.38°W	California	 	Los Angeles
+739	Redwood City	75 398	76 815	 	77 206	0.17	37.52°N	122.21°W	California	 	San Francisco
+740	Reno	183 308	225 221	 	239 901	2.13	39.54°N	119.82°W	Nevada	 	 
+741	Renton	51 170	90 927	 	104 904	4.88	47.48°N	122.20°W	Washington	 	Seattle
+742	Reston	56 407	58 404	 	58 919	0.29	38.95°N	77.35°W	Virginia	 	Washington-Baltimore
+743	Revere	47 283	51 755	 	52 917	0.74	42.42°N	70.99°W	Massachusetts	 	Boston
+744	Rialto	92 326	99 171	 	101 559	0.80	34.11°N	117.39°W	California	 	Los Angeles
+745	Richardson	91 775	99 223	 	101 265	0.68	32.97°N	96.71°W	Texas	 	Dallas
+746	Richland	38 734	48 058	 	50 887	1.92	46.29°N	119.29°W	Washington	 	 
+747	Richmond	197 962	204 214	 	204 883	0.11	37.53°N	77.47°W	Virginia	 	Richmond
+748	Richmond	99 358	103 701	 	104 884	0.38	37.95°N	122.36°W	California	 	San Francisco
+749	Rio Rancho	51 772	87 521	 	100 163	4.60	35.27°N	106.66°W	New Mexico	 	Albuquerque
+750	Riverside	255 763	303 871	 	316 865	1.41	33.94°N	117.40°W	California	 	Los Angeles
+751	Riverton	25 011	38 753	 	44 316	4.57	40.52°N	111.95°W	Utah	 	Salt Lake City
+752	Riverview	12 035	71 050	 	96 795	10.86	27.87°N	82.33°W	Florida	 	Tampa
+753	Roanoke	94 913	97 032	 	97 088	0.02	37.28°N	79.96°W	Virginia	 	 
+754	Rochester	219 774	210 565	 	206 927	-0.58	43.17°N	77.62°W	New York	 	Rochester
+755	Rochester	87 642	106 769	 	112 213	1.67	44.01°N	92.48°W	Minnesota	 	 
+756	Rochester Hills	68 853	70 995	 	71 492	0.23	42.67°N	83.16°W	Michigan	 	Detroit-Windsor
+757	Rockford	151 388	152 871	 	152 795	-0.02	42.27°N	89.06°W	Illinois	 	 
+758	Rock Hill	50 049	66 154	 	70 969	2.37	34.94°N	81.03°W	South Carolina	 	Charlotte
+759	Rocklin	36 486	56 974	 	64 998	4.49	38.80°N	121.24°W	California	 	Sacramento
+760	Rockville	47 397	61 209	 	65 007	2.03	39.08°N	77.15°W	Maryland	 	Washington-Baltimore
+761	Rockwall	18 187	37 490	 	45 370	6.57	32.92°N	96.46°W	Texas	 	Dallas
+762	Rocky Mount	56 012	57 477	 	57 727	0.14	35.96°N	77.81°W	North Carolina	 	 
+763	Rogers	39 590	55 964	 	61 660	3.28	36.33°N	94.13°W	Arkansas	 	 
+764	Romeoville	21 209	39 680	 	46 756	5.62	41.65°N	88.09°W	Illinois	 	Chicago
+765	Rosemead	53 505	53 764	 	53 600	-0.10	34.07°N	118.08°W	California	 	Los Angeles
+766	Roseville	79 961	118 788	 	133 362	3.93	38.76°N	121.29°W	California	 	Sacramento
+767	Roseville	48 129	47 299	 	46 742	-0.39	42.51°N	82.94°W	Michigan	 	Detroit-Windsor
+768	Roswell	81 331	88 346	 	91 523	1.18	34.04°N	84.36°W	Georgia	 	Atlanta
+769	Roswell	45 301	48 366	 	48 835	0.32	33.37°N	104.53°W	New Mexico	 	 
+770	Round Rock	61 594	99 887	 	115 103	4.84	30.52°N	97.67°W	Texas	 	Austin
+771	Rowland Heights	48 553	48 993	 	49 091	0.07	33.98°N	117.89°W	California	 	Los Angeles
+772	Rowlett	44 503	56 199	 	60 685	2.59	32.91°N	96.55°W	Texas	 	Dallas
+773	Royal Oak	60 062	57 236	 	56 078	-0.68	42.51°N	83.15°W	Michigan	 	Detroit-Windsor
+774	Sacramento	407 018	466 488	 	481 830	1.08	38.57°N	121.47°W	California	 	Sacramento
+775	Saginaw	61 792	51 508	 	48 697	-1.85	43.42°N	83.95°W	Michigan	 	 
+776	Saint Charles	60 659	65 794	 	66 995	0.60	38.79°N	90.52°W	Missouri	St. Charles	Saint Louis
+777	Saint Clair Shores	63 096	59 715	 	58 438	-0.72	42.49°N	82.89°W	Michigan	St. Clair Shores	Detroit-Windsor
+778	Saint Cloud	59 686	65 842	 	67 633	0.90	45.55°N	94.17°W	Minnesota	St. Cloud	 
+779	Saint George	49 728	72 897	 	81 548	3.81	37.08°N	113.58°W	Utah	St. George	 
+780	Saint Joseph	73 991	76 780	 	77 081	0.13	39.76°N	94.82°W	Missouri	St. Joseph	 
+781	Saint Louis	348 189	319 294	 	310 142	-0.96	38.64°N	90.24°W	Missouri	St. Louis	Saint Louis
+782	Saint Louis Park	44 102	45 250	 	45 281	0.02	44.95°N	93.36°W	Minnesota	St. Louis Park	Minneapolis-Saint Paul
+783	Saint Paul	286 748	285 068	 	283 507	-0.18	44.95°N	93.10°W	Minnesota	St. Paul	Minneapolis-Saint Paul
+784	Saint Peters	51 360	52 575	 	52 800	0.14	38.78°N	90.61°W	Missouri	St. Peters	Saint Louis
+785	Saint Petersburg	248 815	244 769	 	242 793	-0.27	27.76°N	82.64°W	Florida	St. Petersburg	Tampa
+786	Salem	137 067	154 637	 	160 180	1.18	44.92°N	123.02°W	Oregon	 	Portland
+787	Salem	40 407	41 340	 	41 506	0.13	42.53°N	70.87°W	Massachusetts	 	Boston
+788	Salina	45 745	47 707	 	48 074	0.26	38.82°N	97.62°W	Kansas	 	 
+789	Salinas	142 959	150 441	 	153 235	0.62	36.68°N	121.64°W	California	 	 
+790	Salt Lake City	181 773	186 440	 	187 519	0.19	40.78°N	111.93°W	Utah	 	Salt Lake City
+791	Sammamish	34 104	45 780	 	49 402	2.57	47.58°N	122.10°W	Washington	 	Seattle
+792	San Angelo	88 455	93 200	 	93 836	0.23	31.45°N	100.45°W	Texas	 	 
+793	San Antonio	1 160 005	1 327 407	 	1 367 474	1.00	29.46°N	98.51°W	Texas	 	San Antonio
+794	San Bernardino	188 449	209 924	 	215 861	0.93	34.14°N	117.29°W	California	 	Los Angeles
+795	San Bruno	40 157	41 114	 	41 195	0.07	37.62°N	122.43°W	California	 	San Francisco
+796	San Buenaventura	100 980	 	 	106 259		34.27°N	119.26°W	California	San Buenaventura (Ventura)	Los Angeles
+797	San Clemente	49 936	63 522	 	67 560	2.08	33.45°N	117.61°W	California	 	Los Angeles
+798	San Diego	1 223 418	1 307 402	 	1 327 071	0.50	32.81°N	117.14°W	California	 	San Diego-Tijuana
+799	Sandy	89 014	87 461	 	87 253	-0.08	40.57°N	111.85°W	Utah	 	Salt Lake City
+800	Sandy Springs	85 826	93 853	 	96 177	0.82	33.94°N	84.37°W	Georgia	 	Atlanta
+801	Sanford	38 738	53 570	 	58 093	2.74	28.79°N	81.28°W	Florida	 	Orlando
+802	San Francisco	776 733	805 235	 	813 802	0.35	37.77°N	122.45°W	California	 	San Francisco
+803	San Jacinto	23 776	44 199	 	52 038	5.59	33.79°N	116.96°W	California	 	Los Angeles
+804	San Jose	895 809	945 942	 	958 971	0.46	37.30°N	121.85°W	California	 	San Francisco
+805	San Leandro	79 452	84 950	 	86 324	0.54	37.71°N	122.15°W	California	 	San Francisco
+806	San Luis Obispo	44 196	45 119	 	45 229	0.08	35.27°N	120.66°W	California	 	 
+807	San Marcos	55 089	83 781	 	93 645	3.78	33.14°N	117.17°W	California	 	San Diego-Tijuana
+808	San Marcos	35 728	44 894	 	49 286	3.16	29.88°N	97.93°W	Texas	 	 
+809	San Mateo	92 472	97 207	 	98 218	0.35	37.56°N	122.31°W	California	 	San Francisco
+810	San Rafael	56 063	57 713	 	58 189	0.27	37.98°N	122.51°W	California	 	San Francisco
+811	San Ramon	44 792	72 148	 	81 323	4.07	37.76°N	121.95°W	California	 	San Francisco
+812	Santa Ana	337 977	324 528	 	321 662	-0.30	33.74°N	117.88°W	California	 	Los Angeles
+813	Santa Barbara	89 701	88 410	 	87 829	-0.22	34.43°N	119.72°W	California	 	Los Angeles
+814	Santa Clara	102 361	116 468	 	120 045	1.01	37.37°N	121.97°W	California	 	San Francisco
+815	Santa Clarita	154 913	176 320	 	183 499	1.34	34.41°N	118.51°W	California	 	Los Angeles
+816	Santa Cruz	55 856	59 946	 	61 005	0.59	36.97°N	122.04°W	California	 	San Francisco
+817	Santa Fe	63 048	67 947	 	69 165	0.59	35.68°N	105.95°W	New Mexico	 	 
+818	Santa Maria	77 480	99 553	 	106 117	2.15	34.94°N	120.44°W	California	 	 
+819	Santa Monica	84 084	89 736	 	90 512	0.29	34.01°N	118.49°W	California	 	Los Angeles
+820	San Tan Valley	 	81 321	 	86 610				Arizona	 	 
+821	Santa Rosa	148 518	167 815	 	173 584	1.13	38.45°N	122.70°W	California	 	 
+822	Santee	52 970	53 413	 	53 285	-0.08	32.86°N	116.98°W	California	 	San Diego-Tijuana
+823	Sarasota	52 654	51 917	 	51 530	-0.25	27.34°N	82.55°W	Florida	 	Sarasota-Bradenton
+824	Savannah	133 460	136 286	 	136 874	0.14	32.02°N	81.13°W	Georgia	 	 
+825	Sayreville	40 377	42 704	 	43 391	0.53	40.47°N	74.32°W	New Jersey	 	New York
+826	Schaumburg	75 409	74 227	 	73 714	-0.23	42.03°N	88.08°W	Illinois	 	Chicago
+827	Schenectady	61 821	66 135	 	66 744	0.31	42.80°N	73.93°W	New York	 	Albany
+828	Scottsdale	202 633	217 385	 	224 473	1.08	33.69°N	111.87°W	Arizona	 	Phoenix
+829	Scranton	76 082	76 089	 	75 453	-0.28	41.40°N	75.67°W	Pennsylvania	 	Scranton
+830	Seattle	563 377	608 660	 	619 782	0.61	47.62°N	122.35°W	Washington	 	Seattle
+831	Severn	35 076	44 231	 	47 300	2.26	39.14°N	76.69°W	Maryland	 	Washington-Baltimore
+832	Shakopee	20 582	37 076	 	43 459	5.44	44.77°N	93.48°W	Minnesota	 	Minneapolis-Saint Paul
+833	Shawnee	47 996	62 209	 	66 549	2.27	39.02°N	94.80°W	Kansas	 	Kansas City
+834	Sheboygan	50 969	49 288	 	48 697	-0.40	43.75°N	87.73°W	Wisconsin	 	 
+835	Shoreline	53 293	53 007	 	52 730	-0.17	47.75°N	122.36°W	Washington	 	Seattle
+836	Shreveport	200 775	199 311	 	195 116	-0.71	32.47°N	93.80°W	Louisiana	 	 
+837	Sierra Vista	37 869	43 888	 	45 657	1.33	31.57°N	110.32°W	Arizona	 	 
+838	Silver Spring	76 540	71 452	 	69 942	-0.71	39.01°N	77.02°W	Maryland	 	Washington-Baltimore
+839	Simi Valley	111 374	124 237	 	127 557	0.88	34.26°N	118.75°W	California	 	Los Angeles
+840	Sioux City	85 060	82 684	 	81 796	-0.36	42.50°N	96.39°W	Iowa	 	 
+841	Sioux Falls	124 686	153 888	 	161 113	1.54	43.54°N	96.73°W	South Dakota	 	 
+842	Skokie	63 348	64 784	 	64 848	0.03	42.04°N	87.74°W	Illinois	 	Chicago
+843	Smyrna	44 185	51 271	 	53 583	1.48	33.87°N	84.52°W	Georgia	 	Atlanta
+844	Smyrna	27 057	39 974	 	45 068	4.08	35.98°N	86.52°W	Tennessee	 	Nashville
+845	Somerville	77 600	75 754	 	75 058	-0.31	42.39°N	71.10°W	Massachusetts	 	Boston
+846	Southaven	28 981	48 982	 	56 293	4.75	34.97°N	90.00°W	Mississippi	 	Memphis
+847	South Bend	108 398	101 168	 	98 751	-0.80	41.68°N	86.27°W	Indiana	 	 
+848	Southfield	78 296	71 739	 	69 974	-0.83	42.48°N	83.26°W	Michigan	 	Detroit-Windsor
+849	South Gate	96 375	94 396	 	93 517	-0.31	33.94°N	118.19°W	California	 	Los Angeles
+850	South Hill	31 623	52 431	 	60 169	4.70	47.14°N	122.27°W	Washington	 	Seattle
+851	South Jordan	29 437	50 418	 	58 154	4.87	40.56°N	111.97°W	Utah	 	Salt Lake City
+852	South San Francisco	60 552	63 632	 	64 315	0.36	37.66°N	122.42°W	California	 	San Francisco
+853	South Valley	39 060	40 976	 	41 400	0.34	35.01°N	106.68°W	New Mexico	 	Albuquerque
+854	South Whittier	55 193	57 156	 	57 578	0.25	33.93°N	118.03°W	California	 	Los Angeles
+855	Sparks	66 352	90 264	 	98 309	2.89	39.54°N	119.74°W	Nevada	 	 
+856	Spokane	197 059	208 916	 	211 923	0.48	47.67°N	117.41°W	Washington	 	 
+857	Spokane Valley	80 902	89 755	 	92 488	1.00	47.67°N	117.24°W	Washington	 	 
+858	Spring	36 385	54 298	 	59 697	3.21	30.06°N	95.38°W	Texas	 	Houston
+859	Springdale	47 177	69 797	 	77 519	3.56	36.18°N	94.15°W	Arkansas	 	 
+860	Springfield	152 158	159 498	 	160 466	0.20	37.20°N	93.29°W	Missouri	 	 
+861	Springfield	152 080	153 060	 	152 438	-0.14	42.12°N	72.54°W	Massachusetts	 	Springfield
+862	Springfield	111 749	116 250	 	116 966	0.20	39.78°N	89.64°W	Illinois	 	 
+863	Springfield	53 387	59 403	 	60 904	0.84	44.05°N	122.98°W	Oregon	 	 
+864	Springfield	66 021	60 608	 	58 813	-1.00	39.93°N	83.80°W	Ohio	 	 
+865	Spring Hill	69 078	98 621	 	109 974	3.70	28.48°N	82.56°W	Florida	 	Tampa
+866	Spring Valley	117 390	178 395	 	203 876	4.55	36.11°N	115.24°W	Nevada	 	Las Vegas
+867	Stamford	117 083	122 643	 	123 940	0.35	41.10°N	73.55°W	Connecticut	 	New York
+868	State College	38 412	42 034	 	42 723	0.54	40.79°N	77.86°W	Pennsylvania	 	 
+869	Sterling Heights	124 471	129 699	 	130 669	0.25	42.58°N	83.03°W	Michigan	 	Detroit-Windsor
+870	Stillwater	39 095	45 688	 	47 327	1.18	36.13°N	97.07°W	Oklahoma	 	 
+871	Stockton	243 063	291 707	 	305 209	1.52	37.97°N	121.31°W	California	 	Stockton
+872	Stratford	49 976	51 384	 	51 565	0.12	41.20°N	73.13°W	Connecticut	 	New York
+873	Strongsville	43 858	44 750	 	45 063	0.23	41.31°N	81.83°W	Ohio	 	Cleveland
+874	Suffolk	63 677	84 585	 	91 034	2.48	36.70°N	76.64°W	Virginia	 	Norfolk-Virginia Beach
+875	Sugar Land	64 429	78 817	 	83 663	2.01	29.62°N	95.62°W	Texas	 	Houston
+876	Summerville	28 738	43 392	 	48 211	3.57	33.00°N	80.18°W	South Carolina	 	Charleston
+877	Sunnyvale	131 844	140 081	 	142 184	0.50	37.39°N	122.03°W	California	 	San Francisco
+878	Sunrise	85 786	84 439	 	84 705	0.10	26.15°N	80.30°W	Florida	 	Miami
+879	Sunrise Manor	156 120	189 372	 	202 080	2.19	36.19°N	115.05°W	Nevada	 	Las Vegas
+880	Surprise	30 941	117 517	 	149 406	8.33	33.66°N	112.47°W	Arizona	 	Phoenix
+881	Syracuse	146 464	145 170	 	143 468	-0.39	43.04°N	76.14°W	New York	 	Syracuse
+882	Tacoma	193 573	198 397	 	199 547	0.19	47.25°N	122.46°W	Washington	 	Seattle
+883	Tallahassee	152 285	181 376	 	189 671	1.50	30.46°N	84.28°W	Florida	Muskogean	 
+884	Tamarac	55 724	60 427	 	61 874	0.79	26.20°N	80.26°W	Florida	 	Miami
+885	Tamiami	54 788	55 271	 	56 258	0.59	25.76°N	80.40°W	Florida	 	Miami
+886	Tampa	303 464	335 709	 	343 082	0.73	27.96°N	82.48°W	Florida	 	Tampa
+887	Taunton	55 976	55 874	 	55 900	0.02	41.90°N	71.09°W	Massachusetts	 	Boston
+888	Taylor	65 868	63 131	 	61 865	-0.67	42.23°N	83.27°W	Michigan	 	Detroit-Windsor
+889	Taylorsville	58 717	58 652	 	58 618	-0.02	40.66°N	111.94°W	Utah	Taylorsville-Bennion	Salt Lake City
+890	Temecula	67 456	100 097	 	114 132	4.47	33.50°N	117.13°W	California	 	Los Angeles
+891	Tempe	158 625	161 719	 	162 588	0.18	33.39°N	111.93°W	Arizona	 	Phoenix
+892	Temple	54 533	66 102	 	69 329	1.60	31.10°N	97.36°W	Texas	 	 
+893	Terre Haute	59 626	60 785	 	60 801	0.01	39.47°N	87.38°W	Indiana	 	 
+894	Texas City	41 616	45 099	 	45 725	0.46	29.41°N	94.96°W	Texas	 	Houston
+895	The Hammocks	47 379	51 003	 	54 857	2.46	25.67°N	80.44°W	Florida	Hammocks	Miami
+896	The Villages	8 333	51 442	 	65 995	8.66	28.93°N	81.95°W	Florida	 	 
+897	The Woodlands	55 649	93 847	 	108 879	5.08	30.16°N	95.49°W	Texas	 	Houston
+898	Thornton	81 987	118 772	 	131 262	3.39	39.89°N	104.96°W	Colorado	 	Denver
+899	Thousand Oaks	117 005	126 683	 	129 183	0.65	34.19°N	118.87°W	California	 	Los Angeles
+900	Tigard	42 482	48 035	 	50 122	1.43	45.43°N	122.77°W	Oregon	 	Portland
+901	Tinley Park	48 841	56 703	 	59 055	1.36	41.57°N	87.80°W	Illinois	 	Chicago
+902	Titusville	40 994	43 761	 	44 330	0.43	28.59°N	80.82°W	Florida	 	 
+903	Toledo	313 782	287 208	 	278 196	-1.06	41.66°N	83.58°W	Ohio	 	Toledo
+904	Toms River	86 327	88 791	 	93 343	1.68	39.94°N	74.17°W	New Jersey	 	New York
+905	Tonawanda CDP	61 729	58 144	 	56 899	-0.72	42.98°N	78.88°W	New York	 	Buffalo-Saint Catharines
+906	Topeka	123 423	127 473	 	127 853	0.10	39.04°N	95.69°W	Kansas	 	 
+907	Torrance	137 944	145 438	 	146 692	0.29	33.83°N	118.34°W	California	 	Los Angeles
+908	Town 'n' Country	72 523	78 442	 	80 205	0.74	28.01°N	82.58°W	Florida	Town'n'Country	Tampa
+909	Towson	51 793	55 197	 	56 041	0.51	39.40°N	76.62°W	Maryland	 	Washington-Baltimore
+910	Tracy	56 898	82 922	 	92 444	3.69	37.74°N	121.43°W	California	 	Stockton
+911	Trenton	85 397	84 913	 	84 290	-0.25	40.22°N	74.76°W	New Jersey	 	Philadelphia
+912	Troy	80 957	80 980	 	80 862	-0.05	42.58°N	83.14°W	Michigan	 	Detroit-Windsor
+913	Troy	49 172	50 129	 	49 913	-0.14	42.73°N	73.68°W	New York	 	Albany
+914	Tuckahoe	43 242	44 990	 	45 168	0.13	37.59°N	77.59°W	Virginia	 	Richmond
+915	Tucson	487 276	520 116	 	529 618	0.61	32.20°N	110.89°W	Arizona	 	Tucson
+916	Tulare	45 740	59 278	 	63 719	2.44	36.20°N	119.34°W	California	 	 
+917	Tulsa	393 116	391 906	 	389 985	-0.16	36.13°N	95.92°W	Oklahoma	 	Tulsa
+918	Turlock	56 047	68 549	 	72 533	1.90	37.50°N	120.85°W	California	 	Modesto
+919	Tuscaloosa	77 925	90 468	 	93 145	0.98	33.24°N	87.54°W	Alabama	 	 
+920	Tustin	67 631	75 540	 	78 170	1.15	33.73°N	117.81°W	California	 	Los Angeles
+921	Twin Falls	34 900	44 125	 	46 888	2.05	42.56°N	114.46°W	Idaho	 	 
+922	Tyler	84 337	96 900	 	99 937	1.03	32.33°N	95.30°W	Texas	 	 
+923	Union City	66 869	69 516	 	70 487	0.46	37.60°N	122.02°W	California	 	San Francisco
+924	Union City	67 096	66 455	 	66 445	-0.01	40.77°N	74.03°W	New Jersey	 	New York
+925	University	30 736	41 163	 	44 491	2.63	28.07°N	82.44°W	Florida	University West	Tampa
+926	Upland	68 622	73 732	 	74 987	0.56	34.12°N	117.66°W	California	 	Los Angeles
+927	Urbana	37 853	41 250	 	41 967	0.58	40.11°N	88.21°W	Illinois	 	 
+928	Urbandale	29 262	39 463	 	42 572	2.56	41.64°N	93.74°W	Iowa	 	 
+929	Utica	60 523	62 235	 	62 034	-0.11	43.10°N	75.23°W	New York	 	 
+930	Vacaville	88 768	92 428	 	93 736	0.47	38.36°N	121.97°W	California	 	San Francisco
+931	Valdosta	44 275	54 518	 	57 133	1.57	30.85°N	83.28°W	Georgia	 	 
+932	Vallejo	116 760	115 942	 	115 481	-0.13	38.11°N	122.26°W	California	 	San Francisco
+933	Valrico	6 582	35 545	 	43 476	6.94	27.95°N	82.26°W	Florida	 	Tampa
+934	Vancouver	146 227	161 791	 	171 918	2.04	45.63°N	122.64°W	Washington	 	Portland
+935	Victoria	60 615	62 592	 	62 882	0.15	28.82°N	96.98°W	Texas	 	 
+936	Victorville	64 058	115 903	 	135 650	5.38	34.52°N	117.33°W	California	 	 
+937	Vineland	55 825	60 724	 	61 764	0.57	39.46°N	75.00°W	New Jersey	 	Philadelphia
+938	Virginia Beach	425 257	437 994	 	439 073	0.08	36.74°N	76.04°W	Virginia	 	Norfolk-Virginia Beach
+939	Visalia	95 274	124 442	 	133 431	2.35	36.33°N	119.32°W	California	 	 
+940	Vista	90 018	93 834	 	95 271	0.51	33.19°N	117.24°W	California	 	San Diego-Tijuana
+941	Waco	114 440	124 805	 	127 087	0.61	31.57°N	97.18°W	Texas	 	 
+942	Waldorf	22 312	67 752	 	81 928	6.54	38.64°N	76.90°W	Maryland	 	Washington-Baltimore
+943	Walnut Creek	64 576	64 173	 	63 963	-0.11	37.90°N	122.04°W	California	 	San Francisco
+944	Waltham	59 226	60 632	 	60 785	0.08	42.39°N	71.24°W	Massachusetts	 	Boston
+945	Warner Robins	49 673	66 588	 	71 290	2.30	32.61°N	83.63°W	Georgia	 	 
+946	Warren	138 247	134 056	 	132 078	-0.49	42.49°N	83.03°W	Michigan	 	Detroit-Windsor
+947	Warwick	85 808	82 672	 	81 581	-0.44	41.70°N	71.42°W	Rhode Island	 	Boston
+948	Washington	572 053	601 723	 	604 920	0.18	38.91°N	77.02°W	District of Columbia	 	Washington-Baltimore
+949	Waterbury	107 271	110 366	 	110 604	0.07	41.56°N	73.04°W	Connecticut	 	Hartford
+950	Waterloo	68 734	68 406	 	67 996	-0.20	42.49°N	92.35°W	Iowa	 	 
+951	Watsonville	46 455	51 199	 	53 013	1.17	36.92°N	121.77°W	California	 	San Francisco
+952	Waukegan	88 041	89 078	 	89 767	0.26	42.37°N	87.87°W	Illinois	 	Chicago
+953	Waukesha	65 696	70 718	 	72 130	0.66	43.01°N	88.24°W	Wisconsin	 	Milwaukee
+954	Wauwatosa	47 282	46 396	 	45 878	-0.37	43.06°N	88.03°W	Wisconsin	 	Milwaukee
+955	Wellington	38 751	56 508	 	63 279	3.84	26.66°N	80.25°W	Florida	 	Miami
+956	Wesley Chapel	5 691	44 092	 	55 133	7.73	28.24°N	82.33°W	Florida	 	Tampa
+957	West Allis	61 254	60 411	 	59 839	-0.32	43.01°N	88.03°W	Wisconsin	 	Milwaukee
+958	West Babylon	43 452	43 213	 	43 025	-0.15	40.71°N	73.36°W	New York	 	New York
+959	West Covina	105 097	106 098	 	106 139	0.01	34.05°N	117.91°W	California	 	Los Angeles
+960	West Des Moines	47 139	56 609	 	59 835	1.86	41.57°N	93.75°W	Iowa	 	 
+961	Westfield	40 072	41 094	 	41 252	0.13	42.14°N	72.76°W	Massachusetts	 	Springfield
+962	West Hartford	63 589	63 268	 	62 915	-0.19	41.77°N	72.75°W	Connecticut	 	Hartford
+963	West Haven	52 360	55 564	 	56 262	0.42	41.27°N	72.97°W	Connecticut	 	New York
+964	West Jordan	78 712	103 712	 	113 099	2.93	40.60°N	111.99°W	Utah	 	Salt Lake City
+965	Westland	86 602	84 094	 	82 999	-0.44	42.32°N	83.38°W	Michigan	 	Detroit-Windsor
+966	Westminster	101 029	106 114	 	107 779	0.52	39.88°N	105.05°W	Colorado	 	Denver
+967	Westminster	88 188	89 701	 	90 102	0.15	33.75°N	117.99°W	California	 	Los Angeles
+968	West New York	45 768	49 708	 	50 902	0.79	40.77°N	73.98°W	New Jersey	 	New York
+969	Weston	49 286	65 333	 	71 863	3.23	26.10°N	80.40°W	Florida	 	Miami
+970	West Palm Beach	82 379	99 919	 	105 113	1.70	26.75°N	80.13°W	Florida	 	Miami
+971	West Sacramento	31 615	48 744	 	53 978	3.46	38.56°N	121.55°W	California	 	Sacramento
+972	West Seneca	45 943	44 711	 	44 211	-0.37	42.84°N	78.75°W	New York	 	Buffalo-Saint Catharines
+973	West Valley City	108 896	129 480	 	135 610	1.55	40.69°N	112.01°W	Utah	 	Salt Lake City
+974	Weymouth	53 988	 	 	54 870		42.21°N	70.95°W	Massachusetts	 	Boston
+975	Weymouth Town	 	53 743	 	54 027				Massachusetts	 	 
+976	Wheaton	55 530	52 894	 	52 145	-0.47	41.86°N	88.11°W	Illinois	 	Chicago
+977	Wheaton	 	48 284	 	49 298				Maryland	 	 
+978	White Plains	53 075	56 853	 	57 811	0.56	41.02°N	73.76°W	New York	 	New York
+979	Whitney	18 273	38 585	 	47 123	6.89	36.07°N	115.08°W	Nevada	 	Las Vegas
+980	Whittier	83 627	85 331	 	85 527	0.08	33.97°N	118.02°W	California	 	Los Angeles
+981	Wichita	351 926	382 368	 	390 134	0.67	37.69°N	97.34°W	Kansas	 	Wichita
+982	Wichita Falls	104 199	104 553	 	104 225	-0.10	33.90°N	98.52°W	Texas	 	 
+983	Wilmington	89 641	106 476	 	112 535	1.86	34.21°N	77.91°W	North Carolina	 	 
+984	Wilmington	72 644	70 851	 	70 083	-0.36	39.74°N	75.53°W	Delaware	 	Philadelphia
+985	Wilson	45 087	49 167	 	50 322	0.78	35.73°N	77.92°W	North Carolina	 	 
+986	Winston-Salem	201 405	229 617	 	238 478	1.27	36.10°N	80.26°W	North Carolina	 	Greensboro
+987	Winter Garden	15 124	34 568	 	42 813	7.39	28.56°N	81.58°W	Florida	 	Orlando
+988	Woodbury	46 461	61 961	 	68 265	3.28	44.91°N	92.92°W	Minnesota	 	Minneapolis-Saint Paul
+989	Woodland	49 565	55 468	 	57 277	1.08	38.68°N	121.77°W	California	 	Sacramento
+990	Worcester	172 648	181 045	 	182 534	0.27	42.27°N	71.81°W	Massachusetts	 	Boston
+991	Wylie	15 276	41 427	 	53 698	9.03	33.04°N	96.51°W	Texas	 	Dallas
+992	Wyoming	69 385	72 125	 	72 711	0.27	42.89°N	85.70°W	Michigan	 	Grand Rapids
+993	Yakima	83 266	91 067	 	94 080	1.09	46.59°N	120.53°W	Washington	 	 
+994	Yonkers	196 000	195 976	 	195 462	-0.09	40.95°N	73.87°W	New York	 	New York
+995	Yorba Linda	58 922	64 234	 	65 601	0.70	33.89°N	117.77°W	California	 	Los Angeles
+996	York	41 298	43 718	 	44 083	0.28	39.96°N	76.73°W	Pennsylvania	 	 
+997	Youngstown	82 026	66 982	 	62 854	-2.10	41.10°N	80.65°W	Ohio	 	Youngstown
+998	Yuba City	50 815	64 925	 	69 732	2.41	39.14°N	121.62°W	California	 	 
+999	Yucaipa	41 207	51 367	 	54 502	1.99	34.03°N	117.04°W	California	 	Los Angeles
+1000	Yuma	78 278	93 064	 	98 299	1.84	32.68°N	114.62°W	Arizona	 	 
+
+sponsored link:

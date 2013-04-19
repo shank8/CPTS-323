@@ -18,10 +18,10 @@ namespace RSSReader.Objects.MapView
 {
     public class FeedMarker
     {
-        public FeedMarker(PointLatLng loc, Feed fd, GMapControl gmap)
+        public FeedMarker(PointLatLng loc, Article art, GMapControl gmap)
         {
             location = loc;
-            feed = fd;
+            article = art;
             this.gmap = gmap;
             addPIN(location);
         }
@@ -33,7 +33,7 @@ namespace RSSReader.Objects.MapView
             markersOverlay.Markers.Add(marker);
             gmap.Overlays.Add(markersOverlay);
 
-            marker.ToolTipText = this.feed.mURL;
+            marker.ToolTipText = this.article.mLink;
             marker.ToolTipMode = MarkerTooltipMode.Never;
 
         }
@@ -49,7 +49,7 @@ namespace RSSReader.Objects.MapView
         private GMapMarkerGoogleRed marker;
         public EventHandler eHandler;
         public PointLatLng location;
-        
-        public Feed feed;
+
+        public Article article;
     }
 }

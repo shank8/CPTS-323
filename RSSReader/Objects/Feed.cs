@@ -19,24 +19,36 @@ namespace RSSReader.Objects
             mDescription = description;
         }
 
-
+       public void Filter(int filterType)
+       {
+           if (filterType == 1) // by name
+           {
+               mArticles.Sort(delegate(Article c1, Article c2) { return c1.mTitle.CompareTo(c2.mTitle); });
+           }
+           else
+           {
+               mArticles.Sort(delegate(Article c1, Article c2) { return c1.mPubDate.CompareTo(c2.mPubDate); });
+           }
+       }
         public void refresh(int numArticles)
         {
             mArticles = new List<Article>();
 
+            if( mURL == "" )
+            {
+               mURL = "http://rss.cnn.com/rss/cnn_topstories.rss";
+            }
+
             var reader = XmlReader.Create(mURL);
+         
 
             var feed = SyndicationFeed.Load(reader);
 
             //Loop through all items in the SyndicationFeed
             foreach (var i in feed.Items)
             {
-                Article new_article = new Article();
-                new_article.mTitle = i.Title.Text;
-                new_article.mDescription = i.Summary.Text;
-                new_article.mPubDate = i.PublishDate;
-                new_article.mDescription = i.Summary.Text;
-                new_article.mLink = i.Id;
+                Article new_article = new Article(i.Title.Text, i.Summary.Text, i.PublishDate, i.Id);
+           
                 new_article.Clean();
                 mArticles.Add(new_article);
 

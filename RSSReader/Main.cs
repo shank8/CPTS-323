@@ -20,14 +20,14 @@ namespace RSSReader
 
         private void regViewBtn_Click(object sender, EventArgs e)
         {
-            ListView newListView = new ListView();
+            ListView newListView = new ListView(this);
             newListView.Show();
             this.Hide();
         }
 
         private void mapViewBtn_Click(object sender, EventArgs e)
         {
-            MapView newMapView = new MapView();
+            MapView newMapView = new MapView(this);
             newMapView.Show();
             this.Hide();
         }

@@ -5,16 +5,18 @@ using System.Text;
 using System.Text.RegularExpressions;
 
 
+///     THIS IS RYANS
+
 namespace RSSReader.Objects
 {
     public class Article
     {
-        public Article()
+        public Article(string title, string desc, System.DateTimeOffset pubDate, string link)
         {
-            mTitle = "";
-            mLink = "";
-            mDescription = "";
-            mCity = null;
+            mTitle = title;
+            mLink = link;
+            mDescription = desc;
+            mPubDate = pubDate;
         }
 
         public void Clean()
@@ -24,14 +26,14 @@ namespace RSSReader.Objects
 
             Regex rgx = new Regex(pattern);
             mDescription = rgx.Replace(mDescription, replace);
-            Console.WriteLine("Description is " + mDescription);
+     
             
 
         }
 
         public bool isIncomplete()
         {
-               if(( mTitle == "" ) || (mLink == "" ) || (mDescription == "" ) || ( mCity == null ) )
+               if(( mTitle == "" ) || (mLink == "" ) || (mDescription == "" ) )
                    return true;
 
                return false;
@@ -41,7 +43,6 @@ namespace RSSReader.Objects
         public string mLink { get; set; }
         public string mDescription { get; set; }
         public System.DateTimeOffset mPubDate { get; set; }
-        public City mCity { get; set; }
 
 
     }
