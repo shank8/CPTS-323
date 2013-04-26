@@ -34,7 +34,7 @@ namespace RSSReader
 
             Channels = new List<Channel>();
             myCities = new CityHT();
-            StreamReader fileStream = new StreamReader("../../Objects/MapView/USCities.txt");
+            StreamReader fileStream = new StreamReader("../../Objects/MapView/WorldCities.csv");
             myCities.FileParse(fileStream);
             refreshRate = 5;
             numDisplayArticles = 10;
@@ -53,7 +53,7 @@ namespace RSSReader
               gmap.MapProvider = GMap.NET.MapProviders.BingMapProvider.Instance;
               GMap.NET.GMaps.Instance.Mode = GMap.NET.AccessMode.ServerOnly;
               gmap.SetCurrentPositionByKeywords("United States");
-              gmap.Zoom = 4;
+              gmap.Zoom = 2;
 
               LoadXML newLoadXML = new LoadXML();
               Channels = newLoadXML.toList();
@@ -333,6 +333,57 @@ namespace RSSReader
         {
             Process.Start(mapList.SelectedItems[0].SubItems[3].Text); // Open up the article
         }
+
+        private void editBtn_Click(object sender, EventArgs e)
+        {
+            // First remove the old one
+            
+            if (channelTree.SelectedNode.Level == 0)
+            {
+                Channel ch;
+                Channel editCh;
+
+                ch = Channels.Find(
+                    delegate(Channel csh)
+                    {
+                        return (csh.mTitle == channelTree.SelectedNode.Text);
+                    });
+                editCh = ch;
+                if (ch != null)
+                {
+                    
+                    Channels.Remove(ch);
+                    refreshAll();
+                    SaveXML newXMLSave = new SaveXML();
+                    newXMLSave.toXMLDoc(Channels);
+                }
+
+
+                // Now create a new one
+                if (editCh != null)
+                {
+                    addChannel edit = new addChannel(channelTree, Channels, editCh.mTitle, editCh.mDescription);
+                    edit.Show();
+                }
+            }
+        }
+
+        private void channelTree_NodeMouseHover(object sender, TreeNodeMouseHoverEventArgs e)
+        {
+           
+
+            foreach(Channel ch in Channels)
+            {
+                if(ch.mTitle == e.Node.Text)
+                {
+                    toolTip1.Show(ch.mDescription,channelTree);
+                   
+                }
+            }
+        
+        }
+    
+       
 
         
       

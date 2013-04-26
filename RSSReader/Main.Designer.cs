@@ -33,7 +33,6 @@
             this.regViewBtn = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.settingsBtn = new System.Windows.Forms.Button();
             this.mainTitle = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -84,16 +83,6 @@
             this.label2.TabIndex = 3;
             this.label2.Text = "List View";
             // 
-            // settingsBtn
-            // 
-            this.settingsBtn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("settingsBtn.BackgroundImage")));
-            this.settingsBtn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
-            this.settingsBtn.Location = new System.Drawing.Point(700, 394);
-            this.settingsBtn.Name = "settingsBtn";
-            this.settingsBtn.Size = new System.Drawing.Size(75, 75);
-            this.settingsBtn.TabIndex = 4;
-            this.settingsBtn.UseVisualStyleBackColor = true;
-            // 
             // mainTitle
             // 
             this.mainTitle.AutoSize = true;
@@ -114,7 +103,6 @@
             this.BackColor = System.Drawing.Color.DarkRed;
             this.ClientSize = new System.Drawing.Size(787, 481);
             this.Controls.Add(this.mainTitle);
-            this.Controls.Add(this.settingsBtn);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.regViewBtn);
@@ -138,7 +126,6 @@
         private System.Windows.Forms.Button regViewBtn;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button settingsBtn;
         private System.Windows.Forms.Label mainTitle;
     }
 }

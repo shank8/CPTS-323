@@ -37,6 +37,8 @@
             this.helloToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.saveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mainMenuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.hIToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.filerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.byNameToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -61,8 +63,8 @@
             this.desc = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.pubdate = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.link = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.mainMenuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.editBtn = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -72,6 +74,7 @@
             this.channelTree.Name = "channelTree";
             this.channelTree.Size = new System.Drawing.Size(250, 616);
             this.channelTree.TabIndex = 0;
+            this.channelTree.NodeMouseHover += new System.Windows.Forms.TreeNodeMouseHoverEventHandler(this.channelTree_NodeMouseHover);
             this.channelTree.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.channelTree_AfterSelect);
             this.channelTree.NodeMouseDoubleClick += new System.Windows.Forms.TreeNodeMouseClickEventHandler(this.channelTree_NodeMouseDoubleClick);
             // 
@@ -100,7 +103,7 @@
             // 
             this.remBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
             this.remBtn.ForeColor = System.Drawing.Color.Black;
-            this.remBtn.Location = new System.Drawing.Point(100, 38);
+            this.remBtn.Location = new System.Drawing.Point(86, 38);
             this.remBtn.Name = "remBtn";
             this.remBtn.Size = new System.Drawing.Size(78, 37);
             this.remBtn.TabIndex = 3;
@@ -143,7 +146,7 @@
             this.saveToolStripMenuItem.BackColor = System.Drawing.Color.DarkRed;
             this.saveToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            this.saveToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.saveToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
             this.saveToolStripMenuItem.Text = "Save";
             this.saveToolStripMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
@@ -152,9 +155,27 @@
             this.loadToolStripMenuItem.BackColor = System.Drawing.Color.DarkRed;
             this.loadToolStripMenuItem.ForeColor = System.Drawing.Color.White;
             this.loadToolStripMenuItem.Name = "loadToolStripMenuItem";
-            this.loadToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.loadToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
             this.loadToolStripMenuItem.Text = "Load";
             this.loadToolStripMenuItem.Click += new System.EventHandler(this.loadToolStripMenuItem_Click);
+            // 
+            // mainMenuToolStripMenuItem
+            // 
+            this.mainMenuToolStripMenuItem.BackColor = System.Drawing.Color.DarkRed;
+            this.mainMenuToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.mainMenuToolStripMenuItem.Name = "mainMenuToolStripMenuItem";
+            this.mainMenuToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
+            this.mainMenuToolStripMenuItem.Text = "Main Menu";
+            this.mainMenuToolStripMenuItem.Click += new System.EventHandler(this.mainMenuToolStripMenuItem_Click);
+            // 
+            // exitToolStripMenuItem
+            // 
+            this.exitToolStripMenuItem.BackColor = System.Drawing.Color.DarkRed;
+            this.exitToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
+            this.exitToolStripMenuItem.Text = "Exit";
+            this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
             // hIToolStripMenuItem
             // 
@@ -363,23 +384,17 @@
             // 
             this.link.Text = "Link";
             // 
-            // mainMenuToolStripMenuItem
+            // editBtn
             // 
-            this.mainMenuToolStripMenuItem.BackColor = System.Drawing.Color.DarkRed;
-            this.mainMenuToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.mainMenuToolStripMenuItem.Name = "mainMenuToolStripMenuItem";
-            this.mainMenuToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.mainMenuToolStripMenuItem.Text = "Main Menu";
-            this.mainMenuToolStripMenuItem.Click += new System.EventHandler(this.mainMenuToolStripMenuItem_Click);
-            // 
-            // exitToolStripMenuItem
-            // 
-            this.exitToolStripMenuItem.BackColor = System.Drawing.Color.DarkRed;
-            this.exitToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.exitToolStripMenuItem.Text = "Exit";
-            this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
+            this.editBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
+            this.editBtn.ForeColor = System.Drawing.Color.Black;
+            this.editBtn.Location = new System.Drawing.Point(170, 38);
+            this.editBtn.Name = "editBtn";
+            this.editBtn.Size = new System.Drawing.Size(78, 37);
+            this.editBtn.TabIndex = 13;
+            this.editBtn.Text = "Edit Channel";
+            this.editBtn.UseVisualStyleBackColor = true;
+            this.editBtn.Click += new System.EventHandler(this.editBtn_Click);
             // 
             // ListView
             // 
@@ -387,6 +402,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkRed;
             this.ClientSize = new System.Drawing.Size(1200, 720);
+            this.Controls.Add(this.editBtn);
             this.Controls.Add(this.articleListView);
             this.Controls.Add(this.remBtn);
             this.Controls.Add(this.addBtn);
@@ -444,6 +460,8 @@
         private System.Windows.Forms.ColumnHeader link;
         private System.Windows.Forms.ToolStripMenuItem mainMenuToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
+        private System.Windows.Forms.ToolTip toolTip1;
+        private System.Windows.Forms.Button editBtn;
 
 
     }

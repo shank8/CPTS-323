@@ -31,6 +31,20 @@ namespace RSSReader
 
             while ((line = reader.ReadLine()) != null)
             {
+                string[] words = line.Split(',');
+  
+                    City newCity = new City(Convert.ToDouble(words[6]), Convert.ToDouble(words[5]), words[3]);
+
+                    if (!mCities.Contains(newCity.mName))
+                    {
+                        mCities.Add(newCity.mName, newCity);
+
+                       // MessageBox.Show("Added: " + newCity.mName + "\nLattitude: " + newCity.mLatitude + "\nLongitude: " + newCity.mLongitude);
+                    }
+               // }
+            }
+          /*  while ((line = reader.ReadLine()) != null)
+            {
                 string[] words = line.Split('\t');
 
                 if (( words.Length >= 11) && (words[7].Length > 4) && (words[8].Length > 4) )
@@ -44,7 +58,7 @@ namespace RSSReader
 
                   //  MessageBox.Show("Added: " + newCity.mName + "\nLattitude: " + newCity.mLattitude + "\nLongitude: " + newCity.mLongitude);
                 }              
-            }
+            }*/
         }
 
         public City getCity(String ArticleTitle)

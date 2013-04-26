@@ -26,7 +26,11 @@ namespace RSSReader.Objects
 
             Regex rgx = new Regex(pattern);
             mDescription = rgx.Replace(mDescription, replace);
-     
+
+            if (mDescription == "")
+            {
+                mDescription = "N/A";
+            }
             
 
         }

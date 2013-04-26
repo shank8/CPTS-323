@@ -31,5 +31,10 @@ namespace RSSReader
             newMapView.Show();
             this.Hide();
         }
+
+        private void toolTip1_Popup(object sender, PopupEventArgs e)
+        {
+
+        }
     }
 }

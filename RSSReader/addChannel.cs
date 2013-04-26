@@ -20,6 +20,17 @@ namespace RSSReader
             this.treeView = tree;
 
         }
+        public addChannel(TreeView tree, List<Channel> channels,String title, String desc)
+        {
+
+            InitializeComponent();
+            this.Text = "Edit Channel";
+            this.channelTitle.Text = title;
+            this.channelDesc.Text = desc;
+            this.channels = channels;
+            this.treeView = tree;
+
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {

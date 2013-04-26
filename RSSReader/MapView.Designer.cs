@@ -67,6 +67,8 @@
             this.columnHeader2 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.editBtn = new System.Windows.Forms.Button();
+            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -77,6 +79,7 @@
             this.channelTree.Name = "channelTree";
             this.channelTree.Size = new System.Drawing.Size(250, 616);
             this.channelTree.TabIndex = 0;
+            this.channelTree.NodeMouseHover += new System.Windows.Forms.TreeNodeMouseHoverEventHandler(this.channelTree_NodeMouseHover);
             this.channelTree.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.channelTree_AfterSelect);
             this.channelTree.NodeMouseDoubleClick += new System.Windows.Forms.TreeNodeMouseClickEventHandler(this.channelTree_NodeMouseDoubleClick);
             // 
@@ -96,7 +99,7 @@
             // 
             this.remBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
             this.remBtn.ForeColor = System.Drawing.Color.Black;
-            this.remBtn.Location = new System.Drawing.Point(100, 38);
+            this.remBtn.Location = new System.Drawing.Point(87, 38);
             this.remBtn.Name = "remBtn";
             this.remBtn.Size = new System.Drawing.Size(78, 37);
             this.remBtn.TabIndex = 3;
@@ -415,12 +418,25 @@
             // 
             this.columnHeader4.Text = "Link";
             // 
+            // editBtn
+            // 
+            this.editBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 6.25F);
+            this.editBtn.ForeColor = System.Drawing.Color.Black;
+            this.editBtn.Location = new System.Drawing.Point(171, 38);
+            this.editBtn.Name = "editBtn";
+            this.editBtn.Size = new System.Drawing.Size(78, 37);
+            this.editBtn.TabIndex = 12;
+            this.editBtn.Text = "Edit Channel";
+            this.editBtn.UseVisualStyleBackColor = true;
+            this.editBtn.Click += new System.EventHandler(this.editBtn_Click);
+            // 
             // MapView
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkRed;
             this.ClientSize = new System.Drawing.Size(1200, 720);
+            this.Controls.Add(this.editBtn);
             this.Controls.Add(this.mapList);
             this.Controls.Add(this.gmap);
             this.Controls.Add(this.remBtn);
@@ -482,5 +498,7 @@
         private System.Windows.Forms.ColumnHeader columnHeader2;
         private System.Windows.Forms.ColumnHeader columnHeader3;
         private System.Windows.Forms.ColumnHeader columnHeader4;
+        private System.Windows.Forms.Button editBtn;
+        private System.Windows.Forms.ToolTip toolTip1;
     }
 }

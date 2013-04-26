@@ -47,7 +47,16 @@ namespace RSSReader.Objects
             //Loop through all items in the SyndicationFeed
             foreach (var i in feed.Items)
             {
-                Article new_article = new Article(i.Title.Text, i.Summary.Text, i.PublishDate, i.Id);
+                Article new_article = new Article("", "", DateTime.Today, "");
+                if (i.Title.Text != null)
+                    new_article.mTitle = i.Title.Text;
+                if (i.PublishDate != null)
+                    new_article.mPubDate = i.PublishDate;
+                if (i.Summary != null)
+                    new_article.mDescription = i.Summary.Text;
+                if (i.Links[0].Uri.ToString() != null)
+                    new_article.mLink = i.Links[0].Uri.ToString();
+             
            
                 new_article.Clean();
                 mArticles.Add(new_article);

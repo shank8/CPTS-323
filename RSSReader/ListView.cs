@@ -296,5 +296,47 @@ namespace RSSReader
         public RSSReader menu;
         public int filterType;
 
+        private void channelTree_NodeMouseHover(object sender, TreeNodeMouseHoverEventArgs e)
+        {
+            foreach (Channel ch in Channels)
+            {
+                if (ch.mTitle == e.Node.Text)
+                {
+                    toolTip1.Show(ch.mDescription, channelTree);
+
+                }
+            }
+        }
+
+        private void editBtn_Click(object sender, EventArgs e)
+        {
+            Channel ch;
+                Channel editCh;
+
+                ch = Channels.Find(
+                    delegate(Channel csh)
+                    {
+                        return (csh.mTitle == channelTree.SelectedNode.Text);
+                    });
+                editCh = ch;
+                if (ch != null)
+                {
+                    
+                    Channels.Remove(ch);
+                    refreshAll();
+                    SaveXML newXMLSave = new SaveXML();
+                    newXMLSave.toXMLDoc(Channels);
+                }
+
+
+                // Now create a new one
+                if (editCh != null)
+                {
+                    addChannel edit = new addChannel(channelTree, Channels, editCh.mTitle, editCh.mDescription);
+                    edit.Show();
+                }
+            }
+        
+
     }
 }
